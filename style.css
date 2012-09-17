@@ -366,3 +366,10 @@ margin-left:10px;
 	margin:0px;
 	padding:0px;
 }
+#terms {
+	padding: 10px;
+}
+#t_message {
+	float:left;
+	margin-right:5px;
+}

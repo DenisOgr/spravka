@@ -7,7 +7,8 @@
   <xsl:include href="../../modules/question/client_question.xsl"/>
   <xsl:include href="../../modules/messages/client_messages.xsl"/>
   <xsl:include href="../../modules/links_exchange/client_links_exchange.xsl"/>  
-
+  <xsl:include href="../../modules/comments/client_comments.xsl"/>  
+  
   <xsl:template match="content">
     <xsl:choose>
       <xsl:when test="//section/node/current_id=1 and //section/node/current_module!='search'">

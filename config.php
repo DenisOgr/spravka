@@ -1,8 +1,8 @@
 <?php
 define('DBHOST', 'localhost');
-define('DBLOGIN', 'spravka_semen');
-define('DBPASSWORD', '44olga44');
-define('DBNAME', 'spravka_089');
+define('DBLOGIN', 'root');
+define('DBPASSWORD', 'zaq1');
+define('DBNAME', 'spravka');
 
 
 define('ROOT', dirname(__FILE__).'/');
@@ -29,5 +29,5 @@ define('EMAIL_FROM', 'robot@spravka-melitopol.info');
 
 define('COUNT_DELIVERY', 25);
 
-define('DEBUG',0);
+define('DEBUG',1);
 ?>
