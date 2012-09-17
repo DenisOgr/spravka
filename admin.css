@@ -1,0 +1,47 @@
+body {font-family: tahoma, verdana, sans-serif; color: #000; padding:20px 37px 31px 26px;background:#fff}
+
+table, td, th {border-collapse: collapse; border: 0; vertical-align: top; text-align: left; font-size:12px;}
+* {margin: 0; padding: 0;}
+img {border: 0;}
+
+.table, .table th {border:1px solid #CDDEEF;}
+.table td {padding:5px;}
+.table th {background:#F3F6FB url(/img/admin_07.gif) repeat-x top left; color: #527BA3; font-weight:normal;}
+.table th a{color: #527BA3; text-decoration:none;}
+.table th.upper {text-transform: uppercase; font-weight:bold;}
+.table th img {margin:0px 5px;float:left;}
+.table th div {margin-top:5px;}
+
+input, select, textarea {border: 1px solid #CDDEEF;font-size:14px;padding:3px;margin:3px;}
+.submit {background:url(/img/button.gif) no-repeat center; border:medium none; color:#FFFFFF; font-size:12px; height:27px; font-weight:bold; width:107px;}
+
+#section td{white-space: nowrap; padding:3px;}
+#section a{color:#727272;text-decoration:none;font-size:14px;}
+
+#copyright {text-align:right; text-size:10px;}
+
+div.newline {clear:both; padding: 5px 0px;}
+/*
+div.updown_bord {margin: 6px 0px 4px 0px;}
+div.buttonsline {clear:both; height: 30px; padding-top: 4px; }
+div.tarea {clear:both; height: auto; padding-top: 4px; }
+hr.downborder {margin-bottom: 6px;}
+div.inline {float: left; margin-right: 4px;}*/
+
+.red {color:red;font-weight:bold;}
+.success {color:#0A3; font-weight:bold;}
+count {
+	width: 600px;
+	font-size: 11px;
+	display:block;
+}
+#tree, .tree {
+  padding-left:20px;
+  list-style: none;
+}
+.sections {
+  border-bottom: 1px dotted #000;
+}
+#section input {
+ width: 200px;
+ }

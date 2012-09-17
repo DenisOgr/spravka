@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue1>
+  <item>
+    <id>164</id>
+    <name>Алекс Люкс </name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>2005</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>161</id>
+    <name>Бирюза, мебель</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1953</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>158</id>
+    <name>Flash мебель</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1939</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>157</id>
+    <name>Vip parking </name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1921</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>155</id>
+    <name>Остров сокровищ, Аквапарк</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1885</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>152</id>
+    <name>Обои текстильные (жидкие)</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1869</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>148</id>
+    <name>Все для дома</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1836</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>147</id>
+    <name>Электросила</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1826</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>146</id>
+    <name>Bride, свадебный салон</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1913</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <item>
+    <id>145</id>
+    <name>Accord, студия кухонь</name>
+    <anons></anons>
+    <price>0</price>
+    <picture_id>1775</picture_id>
+    <picture_ver>0</picture_ver>
+    <picture_ext>.jpg</picture_ext>
+  </item>
+  <section>3</section>
+  <add_link/>
+  <links> &lt;b&gt;1&lt;/b&gt;  &lt;a href="?section=3&amp;page=2"&gt; 2&lt;/a&gt;   &lt;a href="?section=3&amp;page=3"&gt; 3&lt;/a&gt;   &lt;a href="?section=3&amp;page=4"&gt; 4&lt;/a&gt;   &lt;a href="?section=3&amp;page=5"&gt; 5&lt;/a&gt;   &lt;a href="?section=3&amp;page=6"&gt; 6&lt;/a&gt;   &lt;a href="?section=3&amp;page=7"&gt; 7&lt;/a&gt;  </links>
+</catalogue1>

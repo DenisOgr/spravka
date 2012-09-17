@@ -1,0 +1,25 @@
+<?
+	class Admin_count{
+		
+		private $count;
+		
+		function __construct(){
+			$this->count = new Count();
+			if(isset($_GET['view']) and $this->count->isStat()){
+				header('Location: '.$this->count->url);
+			}
+		}
+		
+		function show(){
+			$this->xsl = MODULES.'count/admin_count';
+			
+			XML::add_node('count', 'section', $_GET['section']);
+			if($this->count->isStat()){
+				XML::add_node('count', 'link');
+			}
+			
+			return XML::transform('content', $this->xsl);
+		}
+		
+	}
+?>

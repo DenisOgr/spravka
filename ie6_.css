@@ -1,0 +1,140 @@
+body{
+	margin: 0px;
+	background-color: #efefef;
+}.mtableborder {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: dotted;
+	border-left-style: dotted;
+	border-right-color: #FF9700;
+	border-left-color: #FF9700;
+	background-color: #FFFFFF;
+	z-index: 0;
+}
+
+.content {
+	position: static;
+	z-index: 1;
+	width: 100%;
+	display: block;
+}
+#search{
+	height: 39px;
+	width: 312px;
+	position: relative;
+	z-index: 10;
+	top: 0px;
+	margin-right: -43px;
+	left: -48px;
+	
+}
+.content #rightblock{
+	width: 261px;
+	height: 600px;
+	z-index: 20;
+	background-color: #FF0000;
+	position: relative;
+	float: left;
+	margin-left: -36px;	
+}
+.content #abc_block{
+	height: 440px;
+	width: 397px;
+	position: relative;
+	z-index: 3;
+	margin-left: 0px;
+	margin-top: 0px;
+	visibility: visible;
+	top: 0px;
+	float: left;
+	background-color: #dccbb2;
+	background-image: url(images/ugl1.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.content #tov{
+	position: relative;
+	z-index: 4;
+	margin-top: 0px;
+	visibility: visible;
+	top: -2px;
+	float: left;
+	background-color: #f1ead8;
+}
+.content #usl{
+	height: 442px;
+	width: 321px;
+	position: relative;
+	z-index: 2;
+	margin-left: 5px;
+	margin-top: 0px;
+	visibility: visible;
+	top: -39px;
+	left: -41px;
+	float: left;
+	background-color: #f1ead8;
+	background-image: url(images/usl2.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+.input{
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	height: 18px;
+	width: 198px;
+}
+#tov {
+	position: relative;
+	z-index: 4;
+	top: -2px;
+	right: -41px;
+	float: right;
+	background-color: #f1ead8;
+}
+.nb{
+position: relative;
+bottom: 0px;
+width: 321px;
+height:100% !important;
+clear: left;
+}
+.nb #tov2 {
+	position: absolute;
+	z-index: 6;
+	width: 39px;
+	height: 165px;
+	right: -1px;
+	bottom: 0px;
+	float: right;
+}
+.nb #tov3 {
+	position: absolute;
+	z-index: 5;
+	width: 7px;
+	height: 7px;
+	left: 5px;
+	bottom: 0px;
+	float: left;
+}
+#cont {
+	position: relative;
+	z-index: 7;
+	left: 5px;
+	top: 0px;
+	clear: both;
+}
+.abc_block {
+	background-color: #dccbb2;
+	background-image: url(images/ugl1.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.usl {
+
+	background-color: #f1ead8;
+	background-image: url(images/2gif.gif);
+	background-position: left bottom;
+}

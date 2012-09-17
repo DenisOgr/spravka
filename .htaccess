@@ -1,0 +1,15 @@
+Options All -Indexes
+RewriteEngine On
+
+RewriteBase /
+
+ErrorDocument 401 /index.php
+ErrorDocument 403 /index.php
+ErrorDocument 404 /index.php
+ErrorDocument 500 /index.php
+
+RewriteRule ^(admin|awstats|forum)/.*$ - [L]
+RewriteRule ^(admin|awstats|forum)$ $1/ [L]
+
+RewriteRule ^([A-Za-z0-9\/_-]+)/?$ ?alias=$1&%{QUERY_STRING} [L]
+redirect /forum/ http://spravka-melitopol.info/

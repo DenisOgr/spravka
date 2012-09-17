@@ -1,0 +1,3181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+  <picture>
+    <id>44</id>
+    <id_section>23</id_section>
+    <text>http://</text>
+    <extension>.jpg</extension>
+  </picture>
+  <section>23</section>
+  <width>250</width>
+  <height>250</height>
+  <long_path>http://spravka-melitopol.info/uploads/thumb/</long_path>
+  <short_path>http://spravka-melitopol.info/uploads/</short_path>
+  <page>6</page>
+  <links> &lt;a href="?section=23&amp;page=1"&gt; 1&lt;/a&gt;   &lt;a href="?section=23&amp;page=2"&gt; 2&lt;/a&gt;   &lt;a href="?section=23&amp;page=3"&gt; 3&lt;/a&gt;   &lt;a href="?section=23&amp;page=4"&gt; 4&lt;/a&gt;   &lt;a href="?section=23&amp;page=5"&gt; 5&lt;/a&gt;   6  </links>
+  <add_form/>
+  <sec_vis>
+    <node id="0">
+      <id>1</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Главная</name>
+    </node>
+    <node id="2">
+      <id>466</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Справка Мелитополь</name>
+    </node>
+    <node id="4">
+      <id>3</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Фотовитрина</name>
+    </node>
+    <node id="6">
+      <id>4</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Товары и услуги</name>
+    </node>
+    <node id="7">
+      <id>27</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Аварийно-справочные службы</name>
+    </node>
+    <node id="8">
+      <id>32</id>
+      <level>3</level>
+      <id_parent>27</id_parent>
+      <name>Аварийные службы</name>
+    </node>
+    <node id="10">
+      <id>33</id>
+      <level>3</level>
+      <id_parent>27</id_parent>
+      <name>Справочные службы</name>
+    </node>
+    <node id="13">
+      <id>37</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Бытовые услуги</name>
+    </node>
+    <node id="14">
+      <id>108</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ателье</name>
+    </node>
+    <node id="16">
+      <id>109</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Видео-фотоуслуги</name>
+    </node>
+    <node id="18">
+      <id>110</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Граверные работы</name>
+    </node>
+    <node id="20">
+      <id>111</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Доставка питьевой воды</name>
+    </node>
+    <node id="22">
+      <id>112</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Доставка цветов</name>
+    </node>
+    <node id="24">
+      <id>113</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Интернет услуги</name>
+    </node>
+    <node id="26">
+      <id>114</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Клининговые услуги</name>
+    </node>
+    <node id="28">
+      <id>115</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Косметология</name>
+    </node>
+    <node id="30">
+      <id>116</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ксерокс, ламинирование</name>
+    </node>
+    <node id="32">
+      <id>118</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Памятники</name>
+    </node>
+    <node id="34">
+      <id>119</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Парикмахерские, салоны красоты</name>
+    </node>
+    <node id="36">
+      <id>563</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Парикмахерское оборудование</name>
+    </node>
+    <node id="38">
+      <id>120</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Пошив спецодежды</name>
+    </node>
+    <node id="40">
+      <id>121</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Пошив чехлов и тентов</name>
+    </node>
+    <node id="42">
+      <id>122</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Прокат</name>
+    </node>
+    <node id="44">
+      <id>123</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ремонт аудио, видео</name>
+    </node>
+    <node id="46">
+      <id>124</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ремонт бытовой техники</name>
+    </node>
+    <node id="48">
+      <id>461</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Оформление торжеств</name>
+    </node>
+    <node id="50">
+      <id>126</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ремонт и пошив обуви, сумок, кожгалантереи</name>
+    </node>
+    <node id="52">
+      <id>127</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ремонт и перетяжка мягкой мебели</name>
+    </node>
+    <node id="54">
+      <id>128</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ремонт мобильных</name>
+    </node>
+    <node id="56">
+      <id>129</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ремонт часов</name>
+    </node>
+    <node id="58">
+      <id>130</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ритуальные услуги</name>
+    </node>
+    <node id="60">
+      <id>131</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Сауны, бани</name>
+    </node>
+    <node id="62">
+      <id>133</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Химчистки, прачечные, ремонт подушек</name>
+    </node>
+    <node id="64">
+      <id>134</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Художники</name>
+    </node>
+    <node id="66">
+      <id>527</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Подключение к спутниковому телевидению</name>
+    </node>
+    <node id="68">
+      <id>135</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Ювелирные мастерские</name>
+    </node>
+    <node id="70">
+      <id>549</id>
+      <level>3</level>
+      <id_parent>37</id_parent>
+      <name>Услуги мастера</name>
+    </node>
+    <node id="73">
+      <id>31</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Вокзалы</name>
+    </node>
+    <node id="74">
+      <id>34</id>
+      <level>3</level>
+      <id_parent>31</id_parent>
+      <name>Автовокзалы</name>
+    </node>
+    <node id="76">
+      <id>36</id>
+      <level>3</level>
+      <id_parent>31</id_parent>
+      <name>Ж/д вокзал</name>
+    </node>
+    <node id="79">
+      <id>38</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Вторсырье</name>
+    </node>
+    <node id="80">
+      <id>136</id>
+      <level>3</level>
+      <id_parent>38</id_parent>
+      <name>Прием, переработка вторсырья</name>
+    </node>
+    <node id="82">
+      <id>137</id>
+      <level>3</level>
+      <id_parent>38</id_parent>
+      <name>Прием лома черных и цвет. металлов</name>
+    </node>
+    <node id="85">
+      <id>39</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Госучреждения</name>
+    </node>
+    <node id="86">
+      <id>138</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Адресное бюро</name>
+    </node>
+    <node id="88">
+      <id>139</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Бюро технической инвентаризации</name>
+    </node>
+    <node id="90">
+      <id>140</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Военкомат</name>
+    </node>
+    <node id="92">
+      <id>141</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>ГАИ</name>
+    </node>
+    <node id="94">
+      <id>142</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Горисполком</name>
+    </node>
+    <node id="96">
+      <id>143</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Горфинотдел</name>
+    </node>
+    <node id="98">
+      <id>144</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>ЗАГС</name>
+    </node>
+    <node id="100">
+      <id>145</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Колонии</name>
+    </node>
+    <node id="102">
+      <id>146</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Котельные</name>
+    </node>
+    <node id="104">
+      <id>147</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>КРУ</name>
+    </node>
+    <node id="106">
+      <id>154</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Казначейство</name>
+    </node>
+    <node id="108">
+      <id>148</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Метрология</name>
+    </node>
+    <node id="110">
+      <id>151</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Милиция</name>
+    </node>
+    <node id="112">
+      <id>152</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>МЧС</name>
+    </node>
+    <node id="114">
+      <id>155</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>МРЭО</name>
+    </node>
+    <node id="116">
+      <id>156</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Паспортный стол</name>
+    </node>
+    <node id="118">
+      <id>153</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Налоговая инспекция</name>
+    </node>
+    <node id="120">
+      <id>149</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Почта</name>
+    </node>
+    <node id="122">
+      <id>150</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Прокуратура</name>
+    </node>
+    <node id="124">
+      <id>157</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Рынки</name>
+    </node>
+    <node id="126">
+      <id>159</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>СБУ</name>
+    </node>
+    <node id="128">
+      <id>158</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Связь</name>
+    </node>
+    <node id="130">
+      <id>160</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Служба субсидий</name>
+    </node>
+    <node id="132">
+      <id>161</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Собес</name>
+    </node>
+    <node id="134">
+      <id>162</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Соцстрах</name>
+    </node>
+    <node id="136">
+      <id>163</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Суд</name>
+    </node>
+    <node id="138">
+      <id>164</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Таможня</name>
+    </node>
+    <node id="140">
+      <id>165</id>
+      <level>3</level>
+      <id_parent>39</id_parent>
+      <name>Центр занятости</name>
+    </node>
+    <node id="143">
+      <id>41</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>ГСМ</name>
+    </node>
+    <node id="144">
+      <id>166</id>
+      <level>3</level>
+      <id_parent>41</id_parent>
+      <name>Бензин</name>
+    </node>
+    <node id="146">
+      <id>167</id>
+      <level>3</level>
+      <id_parent>41</id_parent>
+      <name>Газ</name>
+    </node>
+    <node id="148">
+      <id>168</id>
+      <level>3</level>
+      <id_parent>41</id_parent>
+      <name>Смазочные материалы, масла</name>
+    </node>
+    <node id="150">
+      <id>169</id>
+      <level>3</level>
+      <id_parent>41</id_parent>
+      <name>Машинные масла</name>
+    </node>
+    <node id="152">
+      <id>170</id>
+      <level>3</level>
+      <id_parent>41</id_parent>
+      <name>Уголь</name>
+    </node>
+    <node id="155">
+      <id>42</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>ЖКХ услуги</name>
+    </node>
+    <node id="156">
+      <id>47</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>Водоснабжение</name>
+    </node>
+    <node id="158">
+      <id>48</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>Газ, газоснабжение</name>
+    </node>
+    <node id="160">
+      <id>49</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>ГорДЭУ</name>
+    </node>
+    <node id="162">
+      <id>50</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>Жилищно-коммунальное хозяйство</name>
+    </node>
+    <node id="164">
+      <id>51</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>ЖЭУ, ПРЖЭУ</name>
+    </node>
+    <node id="166">
+      <id>52</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>Теплоснабжение</name>
+    </node>
+    <node id="168">
+      <id>53</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>Уголь</name>
+    </node>
+    <node id="170">
+      <id>54</id>
+      <level>3</level>
+      <id_parent>42</id_parent>
+      <name>Электроснабжение</name>
+    </node>
+    <node id="173">
+      <id>43</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>ЗООуслуги, ветеринария</name>
+    </node>
+    <node id="174">
+      <id>176</id>
+      <level>3</level>
+      <id_parent>43</id_parent>
+      <name>Ветаптеки</name>
+    </node>
+    <node id="176">
+      <id>177</id>
+      <level>3</level>
+      <id_parent>43</id_parent>
+      <name>Ветуслуги</name>
+    </node>
+    <node id="178">
+      <id>178</id>
+      <level>3</level>
+      <id_parent>43</id_parent>
+      <name>Зоокорма, зоотовары</name>
+    </node>
+    <node id="180">
+      <id>179</id>
+      <level>3</level>
+      <id_parent>43</id_parent>
+      <name>Кинология</name>
+    </node>
+    <node id="182">
+      <id>181</id>
+      <level>3</level>
+      <id_parent>43</id_parent>
+      <name>Орнитология</name>
+    </node>
+    <node id="184">
+      <id>541</id>
+      <level>3</level>
+      <id_parent>43</id_parent>
+      <name>Пансионаты для животных</name>
+    </node>
+    <node id="187">
+      <id>46</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Компьютеры, оргтехника</name>
+    </node>
+    <node id="188">
+      <id>185</id>
+      <level>3</level>
+      <id_parent>46</id_parent>
+      <name>Компьютеры и комплектующие, оргтехника</name>
+    </node>
+    <node id="190">
+      <id>186</id>
+      <level>3</level>
+      <id_parent>46</id_parent>
+      <name>Компьютерные курсы</name>
+    </node>
+    <node id="192">
+      <id>188</id>
+      <level>3</level>
+      <id_parent>46</id_parent>
+      <name>Ремонт компьютерной техники</name>
+    </node>
+    <node id="195">
+      <id>55</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Культурные учреждения</name>
+    </node>
+    <node id="196">
+      <id>189</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Агентства модельные</name>
+    </node>
+    <node id="198">
+      <id>190</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Библиотеки</name>
+    </node>
+    <node id="200">
+      <id>191</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Дворцы культуры</name>
+    </node>
+    <node id="202">
+      <id>192</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Кафе, бары, рестораны</name>
+    </node>
+    <node id="204">
+      <id>193</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Кинотеатры</name>
+    </node>
+    <node id="206">
+      <id>194</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Музеи</name>
+    </node>
+    <node id="208">
+      <id>195</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Общества</name>
+    </node>
+    <node id="210">
+      <id>196</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Парки</name>
+    </node>
+    <node id="212">
+      <id>197</id>
+      <level>3</level>
+      <id_parent>55</id_parent>
+      <name>Церкви</name>
+    </node>
+    <node id="215">
+      <id>57</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Металл, изделия из металла</name>
+    </node>
+    <node id="216">
+      <id>211</id>
+      <level>3</level>
+      <id_parent>57</id_parent>
+      <name>Металлопрокат</name>
+    </node>
+    <node id="218">
+      <id>212</id>
+      <level>3</level>
+      <id_parent>57</id_parent>
+      <name>Металлоизделия</name>
+    </node>
+    <node id="220">
+      <id>213</id>
+      <level>3</level>
+      <id_parent>57</id_parent>
+      <name>Ковка</name>
+    </node>
+    <node id="222">
+      <id>214</id>
+      <level>3</level>
+      <id_parent>57</id_parent>
+      <name>Литье</name>
+    </node>
+    <node id="224">
+      <id>215</id>
+      <level>3</level>
+      <id_parent>57</id_parent>
+      <name>Проволока, сетка</name>
+    </node>
+    <node id="226">
+      <id>216</id>
+      <level>3</level>
+      <id_parent>57</id_parent>
+      <name>Жестяные изделия</name>
+    </node>
+    <node id="229">
+      <id>56</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Медицина</name>
+    </node>
+    <node id="230">
+      <id>198</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Аптеки</name>
+    </node>
+    <node id="232">
+      <id>199</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Биопрепараты, лечебная косметика</name>
+    </node>
+    <node id="234">
+      <id>200</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Больницы</name>
+    </node>
+    <node id="236">
+      <id>201</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Диспансеры</name>
+    </node>
+    <node id="238">
+      <id>202</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Консультации женские</name>
+    </node>
+    <node id="240">
+      <id>203</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Медицина нетрадиционная</name>
+    </node>
+    <node id="242">
+      <id>204</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Медицинское, массажное оборудование, инструменты</name>
+    </node>
+    <node id="244">
+      <id>432</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Медуслуги</name>
+    </node>
+    <node id="246">
+      <id>205</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Морги</name>
+    </node>
+    <node id="248">
+      <id>206</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Оптика, окулисты</name>
+    </node>
+    <node id="250">
+      <id>207</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>СЭС</name>
+    </node>
+    <node id="252">
+      <id>208</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Станция скорой помощи</name>
+    </node>
+    <node id="254">
+      <id>209</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Станция переливания крови</name>
+    </node>
+    <node id="256">
+      <id>210</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Стоматология</name>
+    </node>
+    <node id="258">
+      <id>521</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Поликлиники детские</name>
+    </node>
+    <node id="260">
+      <id>522</id>
+      <level>3</level>
+      <id_parent>56</id_parent>
+      <name>Поликлиники взрослые</name>
+    </node>
+    <node id="263">
+      <id>494</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Медицинская практика</name>
+    </node>
+    <node id="264">
+      <id>562</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Аллерголог</name>
+    </node>
+    <node id="266">
+      <id>495</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Гастроэнтеролог</name>
+    </node>
+    <node id="268">
+      <id>496</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Гельминтолог</name>
+    </node>
+    <node id="270">
+      <id>539</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Гематолог</name>
+    </node>
+    <node id="272">
+      <id>497</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Гинеколог</name>
+    </node>
+    <node id="274">
+      <id>540</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Дерматовенеролог</name>
+    </node>
+    <node id="276">
+      <id>498</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Инфекционист</name>
+    </node>
+    <node id="278">
+      <id>499</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Кардиолог</name>
+    </node>
+    <node id="280">
+      <id>500</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Кодирование от алкогольной зависимости, ожирения, табакокурения</name>
+    </node>
+    <node id="282">
+      <id>501</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Лаборатории клинические, биохимические, манипуляционные</name>
+    </node>
+    <node id="284">
+      <id>502</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Лор-врачи</name>
+    </node>
+    <node id="286">
+      <id>503</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Массаж</name>
+    </node>
+    <node id="288">
+      <id>520</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Невропатолог</name>
+    </node>
+    <node id="290">
+      <id>504</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Оптика, офтальмолог</name>
+    </node>
+    <node id="292">
+      <id>505</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Педиатр</name>
+    </node>
+    <node id="294">
+      <id>506</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Проктолог</name>
+    </node>
+    <node id="296">
+      <id>508</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Психолог</name>
+    </node>
+    <node id="298">
+      <id>507</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Пульмонолог</name>
+    </node>
+    <node id="300">
+      <id>509</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Стоматолог</name>
+    </node>
+    <node id="302">
+      <id>510</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Терапевт</name>
+    </node>
+    <node id="304">
+      <id>511</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>УЗИ, рентген</name>
+    </node>
+    <node id="306">
+      <id>512</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Уролог</name>
+    </node>
+    <node id="308">
+      <id>513</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Хирург</name>
+    </node>
+    <node id="310">
+      <id>515</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Эндокринолог</name>
+    </node>
+    <node id="312">
+      <id>519</id>
+      <level>3</level>
+      <id_parent>494</id_parent>
+      <name>Компьютерная диагностика, томография</name>
+    </node>
+    <node id="315">
+      <id>58</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Образование</name>
+    </node>
+    <node id="316">
+      <id>217</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Внешкольное воспитание</name>
+    </node>
+    <node id="318">
+      <id>218</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>ВУЗы</name>
+    </node>
+    <node id="320">
+      <id>219</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Детские дома</name>
+    </node>
+    <node id="322">
+      <id>220</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Дошкольные учреждения</name>
+    </node>
+    <node id="324">
+      <id>221</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Курсы, обучение</name>
+    </node>
+    <node id="326">
+      <id>222</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Научно-исследовательские институты</name>
+    </node>
+    <node id="328">
+      <id>223</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Переводы</name>
+    </node>
+    <node id="330">
+      <id>224</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Приюты</name>
+    </node>
+    <node id="332">
+      <id>225</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Техникумы, колледжи</name>
+    </node>
+    <node id="334">
+      <id>226</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Училища, лицеи</name>
+    </node>
+    <node id="336">
+      <id>227</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Школы-интернаты</name>
+    </node>
+    <node id="338">
+      <id>228</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Школы творческие</name>
+    </node>
+    <node id="340">
+      <id>229</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Школы образовательные, гимназии</name>
+    </node>
+    <node id="342">
+      <id>230</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Школы спортивные</name>
+    </node>
+    <node id="344">
+      <id>231</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Школы технические</name>
+    </node>
+    <node id="346">
+      <id>536</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Хореография, танцы</name>
+    </node>
+    <node id="348">
+      <id>542</id>
+      <level>3</level>
+      <id_parent>58</id_parent>
+      <name>Обучение работе на кассовом аппарате</name>
+    </node>
+    <node id="351">
+      <id>59</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Оборудование</name>
+    </node>
+    <node id="352">
+      <id>232</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Банковское оборудование</name>
+    </node>
+    <node id="354">
+      <id>233</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Вентиляционное оборудование</name>
+    </node>
+    <node id="356">
+      <id>234</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Газовое оборудование</name>
+    </node>
+    <node id="358">
+      <id>235</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Емкости</name>
+    </node>
+    <node id="360">
+      <id>236</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Инструмент, метизы</name>
+    </node>
+    <node id="362">
+      <id>237</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Компрессоры</name>
+    </node>
+    <node id="364">
+      <id>238</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Контрольно-измерительные приборы</name>
+    </node>
+    <node id="366">
+      <id>240</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Лабораторное оборудование</name>
+    </node>
+    <node id="368">
+      <id>241</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Лифты</name>
+    </node>
+    <node id="370">
+      <id>242</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Медицинское оборудование</name>
+    </node>
+    <node id="372">
+      <id>243</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Насосы</name>
+    </node>
+    <node id="374">
+      <id>476</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Оборудование для парикмахерских</name>
+    </node>
+    <node id="376">
+      <id>434</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Оборудование для предприятий общественного питания</name>
+    </node>
+    <node id="378">
+      <id>244</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Пожарное оборудование</name>
+    </node>
+    <node id="380">
+      <id>426</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Промышленное оборудование</name>
+    </node>
+    <node id="382">
+      <id>442</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Ремонт оборудования</name>
+    </node>
+    <node id="384">
+      <id>435</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Сантехническое оборудование</name>
+    </node>
+    <node id="386">
+      <id>245</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Сварочное оборудование</name>
+    </node>
+    <node id="388">
+      <id>246</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Станки</name>
+    </node>
+    <node id="390">
+      <id>247</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Строительное оборудование</name>
+    </node>
+    <node id="392">
+      <id>248</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Торговое оборудование</name>
+    </node>
+    <node id="394">
+      <id>249</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Фильтры</name>
+    </node>
+    <node id="396">
+      <id>250</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Холодильное оборудование</name>
+    </node>
+    <node id="398">
+      <id>251</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Электрооборудование</name>
+    </node>
+    <node id="400">
+      <id>532</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Оборудование по утилизации РТИ</name>
+    </node>
+    <node id="402">
+      <id>534</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Оборудование для розлива напитков в стеклянную и ПЭТ бутылки</name>
+    </node>
+    <node id="404">
+      <id>537</id>
+      <level>3</level>
+      <id_parent>59</id_parent>
+      <name>Весы</name>
+    </node>
+    <node id="407">
+      <id>60</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Охрана, безопасность</name>
+    </node>
+    <node id="408">
+      <id>252</id>
+      <level>3</level>
+      <id_parent>60</id_parent>
+      <name>ГАИ, МРЭО, милиция</name>
+    </node>
+    <node id="410">
+      <id>253</id>
+      <level>3</level>
+      <id_parent>60</id_parent>
+      <name>Охранно-противопожарные системы, видеонаблюдение, охрана</name>
+    </node>
+    <node id="412">
+      <id>254</id>
+      <level>3</level>
+      <id_parent>60</id_parent>
+      <name>Пожарная охрана</name>
+    </node>
+    <node id="414">
+      <id>255</id>
+      <level>3</level>
+      <id_parent>60</id_parent>
+      <name>Сейфы</name>
+    </node>
+    <node id="417">
+      <id>428</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Охрана природы</name>
+    </node>
+    <node id="418">
+      <id>429</id>
+      <level>3</level>
+      <id_parent>428</id_parent>
+      <name>Лесничество</name>
+    </node>
+    <node id="420">
+      <id>430</id>
+      <level>3</level>
+      <id_parent>428</id_parent>
+      <name>Озеленение</name>
+    </node>
+    <node id="422">
+      <id>431</id>
+      <level>3</level>
+      <id_parent>428</id_parent>
+      <name>Экология</name>
+    </node>
+    <node id="424">
+      <id>564</id>
+      <level>3</level>
+      <id_parent>428</id_parent>
+      <name>Инспекции</name>
+    </node>
+    <node id="427">
+      <id>61</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Право, юридические услуги</name>
+    </node>
+    <node id="428">
+      <id>257</id>
+      <level>3</level>
+      <id_parent>61</id_parent>
+      <name>Адвокатские услуги</name>
+    </node>
+    <node id="430">
+      <id>258</id>
+      <level>3</level>
+      <id_parent>61</id_parent>
+      <name>Аудиторские услуги</name>
+    </node>
+    <node id="432">
+      <id>259</id>
+      <level>3</level>
+      <id_parent>61</id_parent>
+      <name>Нотариальные услуги</name>
+    </node>
+    <node id="435">
+      <id>63</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Пиротехника</name>
+    </node>
+    <node id="437">
+      <id>66</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Продукты питания</name>
+    </node>
+    <node id="438">
+      <id>261</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Бакалея</name>
+    </node>
+    <node id="440">
+      <id>262</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Детское питание</name>
+    </node>
+    <node id="442">
+      <id>263</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Кондитерские изделия</name>
+    </node>
+    <node id="444">
+      <id>264</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Кофе, чай</name>
+    </node>
+    <node id="446">
+      <id>265</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Кулинария</name>
+    </node>
+    <node id="448">
+      <id>266</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Магазины продуктовые</name>
+    </node>
+    <node id="450">
+      <id>267</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Молочная продукция</name>
+    </node>
+    <node id="452">
+      <id>268</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Мороженое</name>
+    </node>
+    <node id="454">
+      <id>269</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Мучная продукция</name>
+    </node>
+    <node id="456">
+      <id>270</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Мясная продукция</name>
+    </node>
+    <node id="458">
+      <id>271</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Напитки, пиво, вода</name>
+    </node>
+    <node id="460">
+      <id>272</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Овощи, фрукты</name>
+    </node>
+    <node id="462">
+      <id>273</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Полуфабрикаты</name>
+    </node>
+    <node id="464">
+      <id>278</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Продукты оздоровительного направления</name>
+    </node>
+    <node id="466">
+      <id>274</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Рыбная, морская продукция</name>
+    </node>
+    <node id="468">
+      <id>275</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Спортивное питание</name>
+    </node>
+    <node id="470">
+      <id>277</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Табак</name>
+    </node>
+    <node id="472">
+      <id>449</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Оптовая продажа продуктов питания</name>
+    </node>
+    <node id="474">
+      <id>535</id>
+      <level>3</level>
+      <id_parent>66</id_parent>
+      <name>Спиртные напитки</name>
+    </node>
+    <node id="477">
+      <id>64</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Промышленные товары</name>
+    </node>
+    <node id="478">
+      <id>288</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Антиквариат</name>
+    </node>
+    <node id="480">
+      <id>289</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Белье</name>
+    </node>
+    <node id="482">
+      <id>290</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Бытовая техника</name>
+    </node>
+    <node id="484">
+      <id>291</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Бытовая техника б/у</name>
+    </node>
+    <node id="486">
+      <id>477</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Бытовая техника - сервисное обслуживание, ремонт и установка</name>
+    </node>
+    <node id="488">
+      <id>292</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Детские товары</name>
+    </node>
+    <node id="490">
+      <id>293</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Замочно-скобяные изделия</name>
+    </node>
+    <node id="492">
+      <id>294</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Зеркала</name>
+    </node>
+    <node id="494">
+      <id>295</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Канцтовары, книги</name>
+    </node>
+    <node id="496">
+      <id>439</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Кассеты, диски, видео-аудио</name>
+    </node>
+    <node id="498">
+      <id>296</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Кожгалантерея</name>
+    </node>
+    <node id="500">
+      <id>297</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Ковровые изделия</name>
+    </node>
+    <node id="502">
+      <id>298</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Кондиционеры</name>
+    </node>
+    <node id="504">
+      <id>299</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Косметика, парфюмерия</name>
+    </node>
+    <node id="506">
+      <id>300</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Мебель</name>
+    </node>
+    <node id="508">
+      <id>301</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Музыкальные инструменты, аппаратура для бизнес-шоу</name>
+    </node>
+    <node id="510">
+      <id>302</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Обувь</name>
+    </node>
+    <node id="512">
+      <id>303</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Одежда</name>
+    </node>
+    <node id="514">
+      <id>304</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Оружие, все для охоты и рыбалки</name>
+    </node>
+    <node id="516">
+      <id>484</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Постельные принадлежности, матрацы</name>
+    </node>
+    <node id="518">
+      <id>305</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Посуда</name>
+    </node>
+    <node id="520">
+      <id>306</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Радиотовары, автозвук</name>
+    </node>
+    <node id="522">
+      <id>462</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Свадебные салоны</name>
+    </node>
+    <node id="524">
+      <id>433</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Спутниковое ТВ, подключение</name>
+    </node>
+    <node id="526">
+      <id>307</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Сэконд хенд</name>
+    </node>
+    <node id="528">
+      <id>308</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Телефоны</name>
+    </node>
+    <node id="530">
+      <id>309</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Телефоны мобильные</name>
+    </node>
+    <node id="532">
+      <id>314</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Ткани, пряжа</name>
+    </node>
+    <node id="534">
+      <id>310</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Упаковочные материалы</name>
+    </node>
+    <node id="536">
+      <id>311</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Фототовары</name>
+    </node>
+    <node id="538">
+      <id>312</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Химия бытовая</name>
+    </node>
+    <node id="540">
+      <id>313</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Хозтовары</name>
+    </node>
+    <node id="542">
+      <id>315</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Сувениры</name>
+    </node>
+    <node id="544">
+      <id>316</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Швейные машины</name>
+    </node>
+    <node id="546">
+      <id>317</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Шторы, карнизы</name>
+    </node>
+    <node id="548">
+      <id>318</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Электротовары</name>
+    </node>
+    <node id="550">
+      <id>319</id>
+      <level>3</level>
+      <id_parent>64</id_parent>
+      <name>Ювелирные изделия</name>
+    </node>
+    <node id="553">
+      <id>62</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Промышленность и производство</name>
+    </node>
+    <node id="554">
+      <id>279</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Заводы</name>
+    </node>
+    <node id="556">
+      <id>280</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Лакокрасочное производство, порошково-полимерное покрытие</name>
+    </node>
+    <node id="558">
+      <id>281</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Легкая промышленность</name>
+    </node>
+    <node id="560">
+      <id>436</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Металлообработка, литье</name>
+    </node>
+    <node id="562">
+      <id>438</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Пищевая промышленность</name>
+    </node>
+    <node id="564">
+      <id>284</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Производство мебели</name>
+    </node>
+    <node id="566">
+      <id>286</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Частное производство</name>
+    </node>
+    <node id="568">
+      <id>287</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Химическая промышленность</name>
+    </node>
+    <node id="570">
+      <id>531</id>
+      <level>3</level>
+      <id_parent>62</id_parent>
+      <name>Перолизная установка</name>
+    </node>
+    <node id="573">
+      <id>321</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Продукция химической промышленности</name>
+    </node>
+    <node id="574">
+      <id>322</id>
+      <level>3</level>
+      <id_parent>321</id_parent>
+      <name>Кислоты</name>
+    </node>
+    <node id="576">
+      <id>323</id>
+      <level>3</level>
+      <id_parent>321</id_parent>
+      <name>Смола, битум</name>
+    </node>
+    <node id="578">
+      <id>324</id>
+      <level>3</level>
+      <id_parent>321</id_parent>
+      <name>Сода, щелочи</name>
+    </node>
+    <node id="580">
+      <id>325</id>
+      <level>3</level>
+      <id_parent>321</id_parent>
+      <name>Технические жидкости</name>
+    </node>
+    <node id="582">
+      <id>326</id>
+      <level>3</level>
+      <id_parent>321</id_parent>
+      <name>Хлорная известь</name>
+    </node>
+    <node id="585">
+      <id>479</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Проектные работы, дизайн, геодезия</name>
+    </node>
+    <node id="586">
+      <id>481</id>
+      <level>3</level>
+      <id_parent>479</id_parent>
+      <name>Геодезические съемки</name>
+    </node>
+    <node id="588">
+      <id>480</id>
+      <level>3</level>
+      <id_parent>479</id_parent>
+      <name>Дизайн интерьеров</name>
+    </node>
+    <node id="590">
+      <id>482</id>
+      <level>3</level>
+      <id_parent>479</id_parent>
+      <name>Ландшафтный дизайн</name>
+    </node>
+    <node id="592">
+      <id>483</id>
+      <level>3</level>
+      <id_parent>479</id_parent>
+      <name>Проектные работы</name>
+    </node>
+    <node id="595">
+      <id>67</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Районная администрация</name>
+    </node>
+    <node id="596">
+      <id>327</id>
+      <level>3</level>
+      <id_parent>67</id_parent>
+      <name>Мелитопольский районный совет</name>
+    </node>
+    <node id="598">
+      <id>328</id>
+      <level>3</level>
+      <id_parent>67</id_parent>
+      <name>Мелитопольская райгосадминистрация</name>
+    </node>
+    <node id="601">
+      <id>546</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Свадебные салоны</name>
+    </node>
+    <node id="603">
+      <id>69</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Сельские, поселковые советы Мелитопольского района</name>
+    </node>
+    <node id="605">
+      <id>65</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Сельское хозяйство</name>
+    </node>
+    <node id="606">
+      <id>394</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Животноводство</name>
+    </node>
+    <node id="608">
+      <id>395</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Комбикорма</name>
+    </node>
+    <node id="610">
+      <id>437</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Пленка тепличная</name>
+    </node>
+    <node id="612">
+      <id>397</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Птицеводство</name>
+    </node>
+    <node id="614">
+      <id>398</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Пчеловодство</name>
+    </node>
+    <node id="616">
+      <id>399</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Садоводство</name>
+    </node>
+    <node id="618">
+      <id>400</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>С/х предприятия, фермерские хозяйства</name>
+    </node>
+    <node id="620">
+      <id>401</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Сельхозпродукция, переработка, закупка, выращивание</name>
+    </node>
+    <node id="622">
+      <id>402</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Семена</name>
+    </node>
+    <node id="624">
+      <id>403</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Станции защиты растений, инспекции</name>
+    </node>
+    <node id="626">
+      <id>404</id>
+      <level>3</level>
+      <id_parent>65</id_parent>
+      <name>Удобрения, средства защиты растений</name>
+    </node>
+    <node id="629">
+      <id>117</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>СМИ, реклама, полиграфия, издательство</name>
+    </node>
+    <node id="630">
+      <id>383</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Газеты</name>
+    </node>
+    <node id="632">
+      <id>386</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Печати, штампы</name>
+    </node>
+    <node id="634">
+      <id>387</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Полиграфические услуги</name>
+    </node>
+    <node id="636">
+      <id>388</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Радиостанции</name>
+    </node>
+    <node id="638">
+      <id>390</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Рекламные услуги</name>
+    </node>
+    <node id="640">
+      <id>465</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Сувенирная продукция</name>
+    </node>
+    <node id="642">
+      <id>391</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Телевидение</name>
+    </node>
+    <node id="644">
+      <id>392</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Типографии</name>
+    </node>
+    <node id="646">
+      <id>457</id>
+      <level>3</level>
+      <id_parent>117</id_parent>
+      <name>Широкоформатная печать</name>
+    </node>
+    <node id="649">
+      <id>68</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Строительные услуги</name>
+    </node>
+    <node id="650">
+      <id>455</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Балконы </name>
+    </node>
+    <node id="652">
+      <id>331</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Бетонные работы</name>
+    </node>
+    <node id="654">
+      <id>332</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Вентиляционные работы</name>
+    </node>
+    <node id="656">
+      <id>333</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Газификация</name>
+    </node>
+    <node id="658">
+      <id>334</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Геодезические работы</name>
+    </node>
+    <node id="660">
+      <id>336</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Дорожно-земляные работы</name>
+    </node>
+    <node id="662">
+      <id>337</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Кровельные работы</name>
+    </node>
+    <node id="664">
+      <id>338</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Ландшафтные работы</name>
+    </node>
+    <node id="666">
+      <id>339</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Пескоструйные работы</name>
+    </node>
+    <node id="668">
+      <id>349</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Покрытие (обработка) поверхностей</name>
+    </node>
+    <node id="670">
+      <id>340</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Стекольные работы</name>
+    </node>
+    <node id="672">
+      <id>342</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Ремонтно-отделочные работы</name>
+    </node>
+    <node id="674">
+      <id>343</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Сантехнические работы</name>
+    </node>
+    <node id="676">
+      <id>344</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Сварочные работы</name>
+    </node>
+    <node id="678">
+      <id>345</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Строительство бассейнов и каминов</name>
+    </node>
+    <node id="680">
+      <id>346</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Строительство зданий и сооружений</name>
+    </node>
+    <node id="682">
+      <id>347</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Столярные, плотнические работы</name>
+    </node>
+    <node id="684">
+      <id>348</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Тепло-гидроизоляционные работы</name>
+    </node>
+    <node id="686">
+      <id>350</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Токарные, фрезерные работы</name>
+    </node>
+    <node id="688">
+      <id>351</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Укладка тротуарной плитки, кафеля</name>
+    </node>
+    <node id="690">
+      <id>533</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Фасадные работы</name>
+    </node>
+    <node id="692">
+      <id>425</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Электромонтажные работы</name>
+    </node>
+    <node id="694">
+      <id>543</id>
+      <level>3</level>
+      <id_parent>68</id_parent>
+      <name>Арочные блоки</name>
+    </node>
+    <node id="697">
+      <id>70</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Стройматериалы</name>
+    </node>
+    <node id="698">
+      <id>352</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Асфальт</name>
+    </node>
+    <node id="700">
+      <id>353</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Асбестоцементные изделия</name>
+    </node>
+    <node id="702">
+      <id>545</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Вентиляционные системы</name>
+    </node>
+    <node id="704">
+      <id>454</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Ворота автоматические</name>
+    </node>
+    <node id="706">
+      <id>354</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Гипсокартон</name>
+    </node>
+    <node id="708">
+      <id>538</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Двери деревянные, МДФ, фурнитура</name>
+    </node>
+    <node id="710">
+      <id>450</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Двери металлические, бронированные</name>
+    </node>
+    <node id="712">
+      <id>356</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Железобетонные конструкции</name>
+    </node>
+    <node id="714">
+      <id>357</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Заборы, тротуарная и облицовочная плитка</name>
+    </node>
+    <node id="716">
+      <id>358</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Изделия из дерева</name>
+    </node>
+    <node id="718">
+      <id>359</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Кафель</name>
+    </node>
+    <node id="720">
+      <id>360</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Кирпич, песок, щебень, цемент</name>
+    </node>
+    <node id="722">
+      <id>361</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Кровельные материалы</name>
+    </node>
+    <node id="724">
+      <id>362</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Лакокрасочная продукция</name>
+    </node>
+    <node id="726">
+      <id>363</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Мел, известь, сухие строительные смеси</name>
+    </node>
+    <node id="728">
+      <id>369</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Напольное покрытие</name>
+    </node>
+    <node id="730">
+      <id>364</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Обои</name>
+    </node>
+    <node id="732">
+      <id>365</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Окна, двери металлопластиковые, жалюзи, ролеты</name>
+    </node>
+    <node id="734">
+      <id>528</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Окна деревянные пластиковые</name>
+    </node>
+    <node id="736">
+      <id>366</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Отделочные материалы</name>
+    </node>
+    <node id="738">
+      <id>367</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Пенобетон, пеноизол</name>
+    </node>
+    <node id="740">
+      <id>368</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Пенопласт</name>
+    </node>
+    <node id="742">
+      <id>441</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Пило-лесоматериалы, ДВП, ДСП, фанера</name>
+    </node>
+    <node id="744">
+      <id>370</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Порошково-полимерные покрытия</name>
+    </node>
+    <node id="746">
+      <id>458</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Потолки</name>
+    </node>
+    <node id="748">
+      <id>371</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Стекло, поликарбонат</name>
+    </node>
+    <node id="750">
+      <id>372</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Строительные растворы и добавки к ним</name>
+    </node>
+    <node id="752">
+      <id>427</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Стройматериалы</name>
+    </node>
+    <node id="754">
+      <id>453</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Изделия из гранита</name>
+    </node>
+    <node id="756">
+      <id>451</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Крепеж, метизы</name>
+    </node>
+    <node id="758">
+      <id>523</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Термодом - блоки</name>
+    </node>
+    <node id="760">
+      <id>525</id>
+      <level>3</level>
+      <id_parent>70</id_parent>
+      <name>Шлакоблок производство</name>
+    </node>
+    <node id="763">
+      <id>72</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Сервис-услуги</name>
+    </node>
+    <node id="764">
+      <id>417</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Бизнес-центры</name>
+    </node>
+    <node id="766">
+      <id>463</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Брачные агенства</name>
+    </node>
+    <node id="768">
+      <id>419</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Гостиницы</name>
+    </node>
+    <node id="770">
+      <id>475</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Доставка питьевой воды</name>
+    </node>
+    <node id="772">
+      <id>440</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Доставка цветов, подарков, курьерские услуги</name>
+    </node>
+    <node id="774">
+      <id>420</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Информационные услуги</name>
+    </node>
+    <node id="776">
+      <id>421</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Кадровые услуги</name>
+    </node>
+    <node id="778">
+      <id>424</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name> Недвижимость</name>
+    </node>
+    <node id="780">
+      <id>422</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Независимая оценка</name>
+    </node>
+    <node id="782">
+      <id>423</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Страхование</name>
+    </node>
+    <node id="784">
+      <id>443</id>
+      <level>3</level>
+      <id_parent>72</id_parent>
+      <name>Ломбарды</name>
+    </node>
+    <node id="787">
+      <id>320</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Спорт, отдых, туризм, игросервис</name>
+    </node>
+    <node id="788">
+      <id>547</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Аквапарк</name>
+    </node>
+    <node id="790">
+      <id>405</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Бильярд</name>
+    </node>
+    <node id="792">
+      <id>406</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Боулинг клубы</name>
+    </node>
+    <node id="794">
+      <id>407</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Букмекерские конторы</name>
+    </node>
+    <node id="796">
+      <id>408</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Кинотеатры</name>
+    </node>
+    <node id="798">
+      <id>410</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Пейнтбольные клубы</name>
+    </node>
+    <node id="800">
+      <id>411</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Спортивные  школы</name>
+    </node>
+    <node id="802">
+      <id>412</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Санатории, профилактории</name>
+    </node>
+    <node id="804">
+      <id>413</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Спорттовары</name>
+    </node>
+    <node id="806">
+      <id>414</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Стадионы, спортивные клубы</name>
+    </node>
+    <node id="808">
+      <id>415</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Теннисные корты</name>
+    </node>
+    <node id="810">
+      <id>416</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Туризм</name>
+    </node>
+    <node id="812">
+      <id>445</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Игровые автоматы</name>
+    </node>
+    <node id="814">
+      <id>448</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Фитнес-клубы, тренажерные залы.</name>
+    </node>
+    <node id="816">
+      <id>459</id>
+      <level>3</level>
+      <id_parent>320</id_parent>
+      <name>Отдых на Азовском море</name>
+    </node>
+    <node id="819">
+      <id>71</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Транспорт, транспортные услуги, запчасти</name>
+    </node>
+    <node id="820">
+      <id>373</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>АЗС</name>
+    </node>
+    <node id="822">
+      <id>374</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Автомастерские, СТО</name>
+    </node>
+    <node id="824">
+      <id>375</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Автомойки</name>
+    </node>
+    <node id="826">
+      <id>377</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Автоперевозки, автоуслуги</name>
+    </node>
+    <node id="828">
+      <id>376</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Автосалоны</name>
+    </node>
+    <node id="830">
+      <id>478</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Автостоянки</name>
+    </node>
+    <node id="832">
+      <id>378</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Железнодорожные перевозки</name>
+    </node>
+    <node id="834">
+      <id>464</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Курьерские доставки, перевозки</name>
+    </node>
+    <node id="836">
+      <id>381</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Производство и ремонт автозапчастей</name>
+    </node>
+    <node id="838">
+      <id>379</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Продажа авто-мото-велозапчастей</name>
+    </node>
+    <node id="840">
+      <id>382</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Пошив тентов, чехлов, сидений на автотранспорт</name>
+    </node>
+    <node id="842">
+      <id>530</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Ремонт дизильной топливной аппаратуры</name>
+    </node>
+    <node id="844">
+      <id>380</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name> Сельхозтехника,  с/х оборудование и запчасти</name>
+    </node>
+    <node id="846">
+      <id>485</id>
+      <level>3</level>
+      <id_parent>71</id_parent>
+      <name>Такси</name>
+    </node>
+    <node id="849">
+      <id>171</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Финансовые операции</name>
+    </node>
+    <node id="850">
+      <id>172</id>
+      <level>3</level>
+      <id_parent>171</id_parent>
+      <name>Банки, финансово-кредитные услуги</name>
+    </node>
+    <node id="852">
+      <id>173</id>
+      <level>3</level>
+      <id_parent>171</id_parent>
+      <name>Биржи</name>
+    </node>
+    <node id="854">
+      <id>174</id>
+      <level>3</level>
+      <id_parent>171</id_parent>
+      <name>Брокеры</name>
+    </node>
+    <node id="857">
+      <id>460</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Цветы</name>
+    </node>
+    <node id="859">
+      <id>550</id>
+      <level>2</level>
+      <id_parent>4</id_parent>
+      <name>Cельхозтехника, сельхоззапчасти</name>
+    </node>
+    <node id="860">
+      <id>551</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Рукава высокого давления, комплектующие</name>
+    </node>
+    <node id="862">
+      <id>552</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Гидроцилиндры</name>
+    </node>
+    <node id="864">
+      <id>553</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Турбокомпрессоры</name>
+    </node>
+    <node id="866">
+      <id>554</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Гидравлика</name>
+    </node>
+    <node id="868">
+      <id>555</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Глушители</name>
+    </node>
+    <node id="870">
+      <id>556</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Запчасти к сельхозтехнике</name>
+    </node>
+    <node id="872">
+      <id>557</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Зубчатые передачи</name>
+    </node>
+    <node id="874">
+      <id>558</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Подшипники, ремни приводные</name>
+    </node>
+    <node id="876">
+      <id>559</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Поршни</name>
+    </node>
+    <node id="878">
+      <id>560</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Сельхозтехника - продажа</name>
+    </node>
+    <node id="880">
+      <id>561</id>
+      <level>3</level>
+      <id_parent>550</id_parent>
+      <name>Ремонт топливной аппаратуры дизелей</name>
+    </node>
+    <node id="884">
+      <id>5</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Доска обьявлений</name>
+    </node>
+    <node id="885">
+      <id>73</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Продам</name>
+    </node>
+    <node id="886">
+      <id>84</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Квартиры, помещения, батискафы</name>
+    </node>
+    <node id="888">
+      <id>85</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Дома</name>
+    </node>
+    <node id="890">
+      <id>86</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Дачи</name>
+    </node>
+    <node id="892">
+      <id>87</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Участки</name>
+    </node>
+    <node id="894">
+      <id>88</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Производства</name>
+    </node>
+    <node id="896">
+      <id>91</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Стройматериалы</name>
+    </node>
+    <node id="898">
+      <id>92</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Авто, мото, вело.</name>
+    </node>
+    <node id="900">
+      <id>93</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Запчасти</name>
+    </node>
+    <node id="902">
+      <id>94</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Оборудование</name>
+    </node>
+    <node id="904">
+      <id>95</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Мебель</name>
+    </node>
+    <node id="906">
+      <id>96</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Теле-видео-аудио, мобильные</name>
+    </node>
+    <node id="908">
+      <id>97</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Компьютеры</name>
+    </node>
+    <node id="910">
+      <id>98</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Одежда</name>
+    </node>
+    <node id="912">
+      <id>99</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Продукты</name>
+    </node>
+    <node id="914">
+      <id>100</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Разное</name>
+    </node>
+    <node id="916">
+      <id>518</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Сельхозпродукты</name>
+    </node>
+    <node id="918">
+      <id>486</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Хозтовары</name>
+    </node>
+    <node id="920">
+      <id>544</id>
+      <level>3</level>
+      <id_parent>73</id_parent>
+      <name>Гаражи</name>
+    </node>
+    <node id="923">
+      <id>74</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Куплю</name>
+    </node>
+    <node id="924">
+      <id>101</id>
+      <level>3</level>
+      <id_parent>74</id_parent>
+      <name>Недвижимость</name>
+    </node>
+    <node id="926">
+      <id>102</id>
+      <level>3</level>
+      <id_parent>74</id_parent>
+      <name>Авто</name>
+    </node>
+    <node id="928">
+      <id>103</id>
+      <level>3</level>
+      <id_parent>74</id_parent>
+      <name>Прочее</name>
+    </node>
+    <node id="930">
+      <id>517</id>
+      <level>3</level>
+      <id_parent>74</id_parent>
+      <name>Сельхозпродукция</name>
+    </node>
+    <node id="932">
+      <id>598</id>
+      <level>3</level>
+      <id_parent>74</id_parent>
+      <name>Оборудование</name>
+    </node>
+    <node id="935">
+      <id>75</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Меняю</name>
+    </node>
+    <node id="937">
+      <id>76</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Сниму</name>
+    </node>
+    <node id="939">
+      <id>77</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Сдам</name>
+    </node>
+    <node id="941">
+      <id>78</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Услуги</name>
+    </node>
+    <node id="942">
+      <id>104</id>
+      <level>3</level>
+      <id_parent>78</id_parent>
+      <name>Строительные</name>
+    </node>
+    <node id="944">
+      <id>105</id>
+      <level>3</level>
+      <id_parent>78</id_parent>
+      <name>Красота и здоровье</name>
+    </node>
+    <node id="946">
+      <id>106</id>
+      <level>3</level>
+      <id_parent>78</id_parent>
+      <name>Разное</name>
+    </node>
+    <node id="949">
+      <id>79</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Животные</name>
+    </node>
+    <node id="951">
+      <id>80</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Утеряно/найдено</name>
+    </node>
+    <node id="953">
+      <id>81</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Поиск работы</name>
+    </node>
+    <node id="955">
+      <id>82</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Требуется</name>
+    </node>
+    <node id="957">
+      <id>107</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Знакомства</name>
+    </node>
+    <node id="959">
+      <id>83</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Разное</name>
+    </node>
+    <node id="961">
+      <id>516</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Подарите мне, пожалуйста.........</name>
+    </node>
+    <node id="963">
+      <id>529</id>
+      <level>2</level>
+      <id_parent>5</id_parent>
+      <name>Изготовление и продажа</name>
+    </node>
+    <node id="966">
+      <id>6</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Кирилловка</name>
+    </node>
+    <node id="967">
+      <id>571</id>
+      <level>2</level>
+      <id_parent>6</id_parent>
+      <name>Административные органы</name>
+    </node>
+    <node id="968">
+      <id>575</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Поселковый совет</name>
+    </node>
+    <node id="970">
+      <id>576</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Милиция</name>
+    </node>
+    <node id="972">
+      <id>577</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Коммунхоз</name>
+    </node>
+    <node id="974">
+      <id>578</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Детский сад</name>
+    </node>
+    <node id="976">
+      <id>579</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Школа</name>
+    </node>
+    <node id="978">
+      <id>580</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Погранзастава</name>
+    </node>
+    <node id="980">
+      <id>581</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Развитие курортной зоны</name>
+    </node>
+    <node id="982">
+      <id>586</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Пожарная часть</name>
+    </node>
+    <node id="984">
+      <id>588</id>
+      <level>3</level>
+      <id_parent>571</id_parent>
+      <name>Приазовская госрыбинспекция</name>
+    </node>
+    <node id="987">
+      <id>565</id>
+      <level>2</level>
+      <id_parent>6</id_parent>
+      <name>Базы отдыха</name>
+    </node>
+    <node id="988">
+      <id>566</id>
+      <level>3</level>
+      <id_parent>565</id_parent>
+      <name>Базы отдыха Коса Пересыпь</name>
+    </node>
+    <node id="990">
+      <id>567</id>
+      <level>3</level>
+      <id_parent>565</id_parent>
+      <name>Базы отдыха Коса Федотова</name>
+    </node>
+    <node id="992">
+      <id>568</id>
+      <level>3</level>
+      <id_parent>565</id_parent>
+      <name>Базы отдыха Кирилловка</name>
+    </node>
+    <node id="994">
+      <id>569</id>
+      <level>3</level>
+      <id_parent>565</id_parent>
+      <name>Базы отдыха Степок</name>
+    </node>
+    <node id="996">
+      <id>570</id>
+      <level>3</level>
+      <id_parent>565</id_parent>
+      <name>Базы отдыха Азовское</name>
+    </node>
+    <node id="998">
+      <id>599</id>
+      <level>3</level>
+      <id_parent>565</id_parent>
+      <name>Базы отдыха территория санатория</name>
+    </node>
+    <node id="1001">
+      <id>572</id>
+      <level>2</level>
+      <id_parent>6</id_parent>
+      <name>Медицина</name>
+    </node>
+    <node id="1002">
+      <id>582</id>
+      <level>3</level>
+      <id_parent>572</id_parent>
+      <name>Амбулатории, больницы, ветлечебницы</name>
+    </node>
+    <node id="1004">
+      <id>585</id>
+      <level>3</level>
+      <id_parent>572</id_parent>
+      <name>Аптека</name>
+    </node>
+    <node id="1007">
+      <id>573</id>
+      <level>2</level>
+      <id_parent>6</id_parent>
+      <name>Почта, связь, сбербанк</name>
+    </node>
+    <node id="1008">
+      <id>589</id>
+      <level>3</level>
+      <id_parent>573</id_parent>
+      <name>Почта </name>
+    </node>
+    <node id="1010">
+      <id>591</id>
+      <level>3</level>
+      <id_parent>573</id_parent>
+      <name>Сбербанк №3152</name>
+    </node>
+    <node id="1012">
+      <id>597</id>
+      <level>3</level>
+      <id_parent>573</id_parent>
+      <name>Укртелеком</name>
+    </node>
+    <node id="1015">
+      <id>574</id>
+      <level>2</level>
+      <id_parent>6</id_parent>
+      <name>Транспорт</name>
+    </node>
+    <node id="1016">
+      <id>592</id>
+      <level>3</level>
+      <id_parent>574</id_parent>
+      <name>Автобусные станции</name>
+    </node>
+    <node id="1018">
+      <id>595</id>
+      <level>3</level>
+      <id_parent>574</id_parent>
+      <name>Ж/д станции</name>
+    </node>
+    <node id="1022">
+      <id>2</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Анонс на главной</name>
+    </node>
+    <node id="1024">
+      <id>7</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Контакты</name>
+    </node>
+    <node id="1026">
+      <id>8</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Карта сайта</name>
+    </node>
+    <node id="1028">
+      <id>9</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Поиск</name>
+    </node>
+    <node id="1030">
+      <id>17</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Статьи на главной</name>
+    </node>
+    <node id="1032">
+      <id>18</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Центральный блок на главной 1</name>
+    </node>
+    <node id="1034">
+      <id>19</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Центральный блок на главной 2</name>
+    </node>
+    <node id="1036">
+      <id>20</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Организационные вопросы</name>
+    </node>
+    <node id="1038">
+      <id>21</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Фотографии внизу</name>
+    </node>
+    <node id="1040">
+      <id>22</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Правые баннеры</name>
+    </node>
+    <node id="1042">
+      <id>23</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Фотографии справа</name>
+    </node>
+    <node id="1044">
+      <id>24</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Верхний баннер</name>
+    </node>
+    <node id="1046">
+      <id>25</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Счетчики</name>
+    </node>
+    <node id="1048">
+      <id>469</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Статистика</name>
+    </node>
+    <node id="1050">
+      <id>467</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Строка Сверху</name>
+    </node>
+    <node id="1052">
+      <id>468</id>
+      <level>1</level>
+      <id_parent></id_parent>
+      <name>Строка Снизу</name>
+    </node>
+  </sec_vis>
+</gallery>

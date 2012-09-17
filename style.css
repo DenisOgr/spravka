@@ -1,0 +1,368 @@
+body{
+	margin: 0px;
+	background-color: #efefef;
+	font-family: Tahoma;
+	font-size: 13px;
+        background-image: none; 
+}
+img{border:none;}
+.mtableborder {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: dotted;
+	border-left-style: dotted;
+	border-right-color: #FF9700;
+	border-left-color: #FF9700;
+	background-color: #FFFFFF;
+	z-index: auto;
+}
+.mtableborder td {
+	padding: 0px;
+}
+.content {
+	position: static;
+	z-index: 1;
+	width: 100%;
+	display: block;
+}
+#search{
+	width: 312px;
+	position: absolute;
+	z-index: 10;
+	top: 206px;
+	left: 683px;
+	float: left;
+	
+}
+.plus1{
+	top: 245px;
+	left: 733px;
+	padding-left: 8px;
+	background-image: url(images/4gif.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+
+}
+.white_link {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-top: 4px;
+}
+.text1{
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.text2{
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #c2c2c2;
+	text-decoration: none;
+}
+.text3{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #c2c2c2;
+	text-decoration: none;
+	margin-top: 10px;
+}
+.text3 p{
+	margin: 0px;
+}
+.text5{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #4b4b4b;
+	text-decoration: none;
+	margin-bottom: 10px;
+}
+.text4{
+	font-family: Arial;
+	font-size: 12px;
+	color: #373737;
+	text-decoration: none;
+	margin-top: 45px;
+	line-height: 20px;
+	font-weight: bold;
+	text-align: left;
+	float: left;
+	padding-left: 25px;
+}
+.text4 a{
+	font-family: Arial;
+	font-size: 12px;
+	color: #373737;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text6{
+	font-family: Arial;
+	font-size: 18px;
+	color: #000000;
+	text-decoration: none;
+	margin-top: 10px;
+	font-weight: bold;
+	text-align: left;
+}
+.text7{
+	font-family: Arial;
+	font-size: 18px;
+	color: #2a84b0;
+	text-decoration: none;
+	margin-top: 14px;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 10px;
+}
+.text8{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #494949;
+	text-decoration: none;
+	margin-top: 10px;
+	margin-left: 10px;
+		
+}
+.text9{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #494949;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.text10{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #9d9990;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 10px;
+	margin-top: 20px;
+}
+.text11{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #565146;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text21 a {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #565146;
+	text-decoration: none;
+	font-weight: bold;
+}
+.text11:hover{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #515141;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.text21 a:hover{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #515141;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.text12{
+	font-family: Arial;
+	font-size: 18px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: left;
+}
+.text13{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #494949;
+	text-decoration: none;
+}
+.text13 p{
+	margin:0px;
+}
+.text13 a{
+	color:#494949;
+}
+.icona {
+	margin-top: 25px;
+	float: left;
+	padding-left: 15px;
+}
+
+.content #rightblock{
+	width: 261px;
+	height: 600px;
+	z-index: 20;
+	background-color: #FF0000;
+	position: relative;
+	float: left;
+	margin-left: -36px;	
+}
+.content #abc_block{
+	height: 440px;
+	width: 397px;
+	position: relative;
+	z-index: 3;
+	margin-left: 0px;
+	margin-top: 0px;
+	visibility: visible;
+	top: 0px;
+	float: left;
+	background-color: #dccbb2;
+	background-image: url(images/ugl1.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.content #tov{
+	position: relative;
+	z-index: 4;
+	margin-top: 0px;
+	visibility: visible;
+	top: -2px;
+	float: left;
+	background-color: #f1ead8;
+}
+.content #usl{
+	height: 442px;
+	width: 321px;
+	position: relative;
+	z-index: 2;
+	margin-left: 5px;
+	margin-top: 0px;
+	visibility: visible;
+	top: -39px;
+	left: -41px;
+	float: left;
+	background-color: #f1ead8;
+	background-image: url(images/usl2.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+.usl2 {
+	padding-left:10px;
+	
+}
+
+.input{
+	background-color: #ffffff;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	height: 18px;
+	width: 188px;
+}
+.input2{
+	background-color: #ffffff;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	height: 12px;
+	width: 178px;
+	font-size: 10px;
+	color: #333333;
+}
+#tov {
+	position: absolute;
+	z-index: 100;
+	top: 184px;
+	right: 553px;
+	float: right;
+	background-color: #f1ead8;
+}
+.nb{
+position: relative;
+bottom: 0px;
+width: 322px;
+height:100% !important;
+clear: left;
+}
+.nb #tov2 {
+	position: absolute;
+	z-index: auto;
+	width: 39px;
+	height: 165px;
+	right: 0px;
+	bottom: 0px;
+	float: right;
+}
+.nb #tov3 {
+	position: absolute;
+	z-index: auto;
+	width: 7px;
+	height: 7px;
+	left: 5px;
+	bottom: 0px;
+	float: left;
+}
+#cont {
+	position: relative;
+	z-index: 7;
+	left: 5px;
+	top: 0px;
+	clear: both;
+}
+.abc_block {
+	background-color: #dccbb2;
+	background-image: url(images/ugl1.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.usl {
+	background-color: #f1ead8;
+	background-image: url(images/2gif.gif);
+	background-position: left bottom;
+}
+.list_company li{	
+  font-size: 18px;
+  font-weight: bold;  
+  list-style: none;
+  padding: 5px;
+}
+
+/* simple css-based tooltip */
+.tooltip {
+  background-color:#000;
+  border:1px solid #fff;
+  padding:10px 15px;
+  width:200px;
+  display:none;
+  color:#fff;
+  text-align:left;
+  font-size:12px;
+
+  /* outline radius for mozilla/firefox only */
+  -moz-box-shadow:0 0 10px #000;
+  -webkit-box-shadow:0 0 10px #000;
+}
+.music {
+	position:relative;
+}
+.music .sm2_button {
+  position: absolute;
+  top: 130px;
+  left: 273px;
+}
+.topright {
+overflow:hidden;
+height:147px;
+width:410px;
+margin-left:10px;
+}
+.topright p{
+	margin:0px;
+	padding:0px;
+}

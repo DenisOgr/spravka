@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+  <xsl:output indent="yes"/>
+
+  <xsl:template match="count">
+	<xsl:variable name="section" select="section" />
+	
+	<count>
+		Cтатистика посещений за прошлый месяц:
+		<xsl:choose>
+			<xsl:when test="link">
+				<a href="?section={$section}&amp;view">Скачать</a>
+			</xsl:when>
+			<xsl:otherwise>
+				Отсутствует
+			</xsl:otherwise>
+		</xsl:choose>
+	</count>
+		
+  </xsl:template>
+</xsl:stylesheet>
