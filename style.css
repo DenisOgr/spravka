@@ -373,3 +373,30 @@ margin-left:10px;
 	float:left;
 	margin-right:5px;
 }
+.icon {
+    background: url("/images/b-share-icon.png") no-repeat scroll 0 99px transparent;
+    border: 0 none;
+    display: inline;
+    float: left;
+    height: 16px;
+    overflow: hidden;
+    padding: 0 !important;
+    vertical-align: top;
+    width: 16px;
+    margin:3px;
+}
+.vkontakte {
+    background-position: 0 0;
+}
+.facebook {
+    background-position: 0 -68px;
+}
+.odnoklassniki {
+    background-position: 0 -170px;
+}
+.twitter {
+    background-position: 0 -51px;
+}
+.moimir {
+    background-position: 0 -85px;
+}

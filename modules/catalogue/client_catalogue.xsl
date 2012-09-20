@@ -87,7 +87,11 @@
 					<xsl:value-of select="detail/more" disable-output-escaping="yes" />
 					&#160;
 				</div>
-         <xsl:apply-templates select="//comments"/>
+				<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="button" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,gplus"></div> 
+				
+				
+<!--          <xsl:apply-templates select="//comments"/> -->
 			</xsl:when>
 			<xsl:otherwise>
 
