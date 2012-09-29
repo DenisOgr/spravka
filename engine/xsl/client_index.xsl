@@ -61,9 +61,26 @@
 					});
 					});
 				</script>
+				<!-- Put this script tag to the <head> of your page -->
+				<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?52"></script>
+
+				<script type="text/javascript">
+					VK.init({apiId: 3149329, onlyWidgets: true});
+				</script>
 			</head>
 
 			<body marginheight="0" marginwidth="0">
+				
+				<div id="fb-root"></div>
+				<script>(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s); js.id = id;
+					js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";
+					fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));
+				</script>
+				
 				<xsl:text> </xsl:text>
 				<xsl:comment>
 					START
@@ -108,7 +125,8 @@
 																			</a>
 																		</div>
 																		<div style="position:absolute;left:400px;top:15px;width:150px;height:40px;" class="icon">
-																		  мы в соцсетях<br/>
+																			мы в соцсетях
+																			<br />
 																			<a href="http://vk.com/spravka1560">
 																				<span class="icon vkontakte"></span>
 																			</a>
@@ -122,8 +140,8 @@
 																				<span class="icon twitter"></span>
 																			</a>
 																			<a href="http://my.mail.ru/list/spravka.melitopol1560">
-                                        <span class="icon moimir"></span>
-                                      </a>
+																				<span class="icon moimir"></span>
+																			</a>
 
 																		</div>
 																		<div class="text4" style="width:175px; height:60px;">
@@ -229,12 +247,8 @@
 												<div align="left" class="plus1">
 													<div style="margin-top:50px;" class="text13" align="center">
 														<xsl:call-template name="gallery">
-															<xsl:with-param name="gallery_section">
-																23
-															</xsl:with-param>
-															<xsl:with-param name="scroller">
-																0
-															</xsl:with-param>
+															<xsl:with-param name="gallery_section" select="'23'" />
+															<xsl:with-param name="scroller" select='0' />
 														</xsl:call-template>
 														&#160;
 													</div>

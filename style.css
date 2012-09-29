@@ -400,3 +400,29 @@ margin-left:10px;
 .moimir {
     background-position: 0 -85px;
 }
+.social {
+	text-align:center;
+	padding:10px;
+}
+
+#vk_like {
+    float: left;    
+    width: 155px !important;
+}
+#mail_ok_like {
+    float: left;   
+    width: 225px;
+}
+.fb-like {
+    float: left;
+    margin-right: 10px; 
+}
+.twitter-share-button  {
+    float: left; 
+    width: 107px !important;
+}
+#___plusone_0{
+	margin-left:5px !important;
+	width:59px !important;
+	float:left !important;
+}
