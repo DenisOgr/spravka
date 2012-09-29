@@ -160,6 +160,10 @@ class Db {
     $cols = mysql_num_fields($result) or Error::report();
     return $cols;
   }
+  
+  function last_id () {
+  	return mysql_insert_id();
+  }
 
   function affected_rows()  {
     return mysql_affected_rows();

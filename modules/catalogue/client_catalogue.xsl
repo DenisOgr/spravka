@@ -26,8 +26,7 @@
 				// select all desired input fields and attach tooltips to them
 				$(".tips").tooltip({
 
-				// place tooltip on the
-				right edge
+				// place tooltip on the	right edge
 				position: "center right",
 
 				// a little tweaking of the position
@@ -116,18 +115,11 @@
 					<div class="g-plusone" data-size="medium"></div>
 
 					<!-- Place this tag after the last +1 button tag. -->
-					<script type="text/javascript">
-						window.___gcfg = {lang: 'ru'};
-
-						(function() {
-						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-						po.src = 'https://apis.google.com/js/plusone.js';
-						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-						})();
+					<script type="text/javascript">	window.___gcfg = {lang: 'ru'};(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;	po.src ='https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();
 					</script>
 				</div>
 
-				<!-- <xsl:apply-templates select="//comments"/> -->
+				<xsl:apply-templates select="//comments" />
 			</xsl:when>
 			<xsl:otherwise>
 

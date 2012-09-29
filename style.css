@@ -426,3 +426,13 @@ margin-left:10px;
 	width:59px !important;
 	float:left !important;
 }
+#comment_text {
+	width: 500px;
+	height: 100px;
+}
+#comment {
+	padding:10px;
+}
+.photo {
+	margin:5px;
+}

@@ -29,9 +29,7 @@
 					if(navigator.appName.indexOf("Explorer")!=-1) { isIE=1; document.onselectstart=rf; }
 					else
 					if(document.layers||(window.captureEvents)) { isNN=1; document.captureEvents(Event.MOUSEDOWN);self.blur(); }
-					//else if(window.captureEvents) { isOp=1; document.write("
-					<input type="Text" style="visibility:hidden;position:absolute" id="ht" onblur="this.focus()" />
-					"); ht.focus(); }
+					//else if(window.captureEvents) { isOp=1; document.write("<input type="Text" style="visibility:hidden;position:absolute" id="ht" onblur="this.focus()" />"); ht.focus(); }
 				</script>
 				<META HTTP-EQUIV="Cache-Control" content="no-cache" />
 
