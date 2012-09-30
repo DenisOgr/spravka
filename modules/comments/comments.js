@@ -1,5 +1,5 @@
 function social_login(token) {
-	$('#terms').load('/social_login.php?token='+token);
+	$('#terms').load('/social_login.php?token=' + token + '&item=' + $('#comments').data('item'));
 }
 
 $(document).ready(
@@ -11,6 +11,11 @@ function() {
 	 * $(this).css({ opacity : 0.8 }); }, animateCallback : function() {
 	 * $(this).css({ opacity : 1 }); }, animateDuration : 300, extraSpace : 50 });
 	 */
+
+	$('#logout').live('click', function() {
+		$('#terms').load('/social_login.php?logout');
+		return false;
+	});
 
 	$("#addComment").submit(function() {
 		var options = {

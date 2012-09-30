@@ -17,7 +17,7 @@
 						<th style="padding:6px;">Дата добавления</th>
 						<th style="padding:6px;">Имя</th>
 						<th style="padding:6px;">Текст</th>
-						<th style="padding:6px;" colspan="2"></th>
+						<th style="padding:6px;" colspan="3"></th>
 					</tr>
 					<xsl:for-each select="node">
 						<tr>
@@ -25,10 +25,15 @@
 								<xsl:value-of select="date_add" />
 							</td>
 							<td>
-								<xsl:value-of select="name" />
+								<xsl:value-of select="concat(first_name,' ',last_name)" />
 							</td>
 							<td>
 								<xsl:value-of select="text" />
+							</td>
+							<td>
+								<xsl:if test="active=0">
+									<a href="{$start}active_item={id}"> Активировать </a>
+								</xsl:if>
 							</td>
 							<td>
 								<a href="{$start}edit_item={id}"> Редактировать </a>

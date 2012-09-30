@@ -7,13 +7,13 @@ Class Admin_comments {
 		if (isset($_GET['delete_item'])) {
 			$this->delete_item($_GET['delete_item']);
 		}
+		if (isset($_GET['active_item'])) {
+			$this->active_item($_GET['active_item']);
+		}
 		if (isset($_POST['cancel'])) {
 			unset($_GET['edit_item'],$_GET['add']);
 		}
-		if (isset($_GET['image_item'])) {
-			$this->image($_GET['image_item']);
-		}
-		
+
 		if (isset($_POST['save_item']) && $this->verify_fill()) {
 			if (isset($_GET['edit_item'])) {
 				$this->save_item(intval($_GET['edit_item']));
@@ -24,6 +24,8 @@ Class Admin_comments {
 			die();
 		}
 	}
+	
+
 	
 	function show() {
 		if (isset($_GET['edit_item'])) {
@@ -60,7 +62,7 @@ Class Admin_comments {
 	
 	function get_list() {
 		$this->xsl=MODULES.'comments/list_comments';
-		XML::from_db('SELECT *, DATE_FORMAT(date_add,"%d.%m.%Y") as date_add, active FROM comments ORDER BY date_add DESC',null,'list_comments');
+		XML::from_db('SELECT c.id, c.text, DATE_FORMAT(c.date_add,"%d.%m.%Y %H:%i:%s") as date_add, c.active, u.first_name,u.last_name, u.photo  FROM comments As c, users AS u WHERE c.id_user=u.id ORDER BY date_add DESC',null,'list_comments');
 		XML::add_node('list_comments',null, array('section'=>$_GET['section']));
 	}
 	
@@ -75,7 +77,10 @@ Class Admin_comments {
 	}
 	
 	function delete_item($id) {
-		$res=$this->db->query('DELETE FROM comments WHERE id=?',$id);
+		$this->db->query('DELETE FROM comments WHERE id=?',$id);
 	}
 
+	function active_item($id) {
+		$this->db->query('UPDATE comments SET active=1 WHERE id=?',$id);
+	}
 }
