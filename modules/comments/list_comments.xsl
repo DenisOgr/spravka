@@ -15,6 +15,7 @@
 				<table class="table">
 					<tr>
 						<th style="padding:6px;">Дата добавления</th>
+						<th style="padding:6px;">Аватар</th>
 						<th style="padding:6px;">Имя</th>
 						<th style="padding:6px;">Текст</th>
 						<th style="padding:6px;" colspan="3"></th>
@@ -24,8 +25,11 @@
 							<td>
 								<xsl:value-of select="date_add" />
 							</td>
+							<td>                
+                <img src="{photo}" width="50"/>
+              </td>
 							<td>
-								<xsl:value-of select="concat(first_name,' ',last_name)" />
+								<xsl:value-of select="concat(first_name,' ',last_name)" />				
 							</td>
 							<td>
 								<xsl:value-of select="text" />
