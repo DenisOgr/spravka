@@ -26,6 +26,7 @@ define('EMAIL_ADMIN', 'info@programmer.net.ua');
 define('EMAIL_CC', 'info@programmer.net.ua');
 define('EMAIL_REPORT', 'info@programmer.net.ua');
 define('EMAIL_FROM', 'robot@spravka-melitopol.info');
+define('EMAIL_FROM_TEXT', 'Справка Мелитополь');
 
 define('COUNT_DELIVERY', 25);
 

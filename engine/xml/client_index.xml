@@ -7087,21 +7087,21 @@
           <image>0</image>
         </add>
       </node>
-      <current_name>Отдых на Азовском море</current_name>
-      <parent_name>Спорт, отдых, туризм, игросервис</parent_name>
-      <parent_id>320</parent_id>
+      <current_name>Аварийные службы</current_name>
+      <parent_name>Аварийно-справочные службы</parent_name>
+      <parent_id>27</parent_id>
       <current_module>catalogue</current_module>
-      <current_id>459</current_id>
+      <current_id>32</current_id>
     </node>
   </section>
   <content>
     <meta_tags>
       <node>
-        <id>68</id>
-        <id_section>459</id_section>
-        <title>Эконом - номера в Кирилловке в Мелитополе</title>
-        <description>В Мелитополе Эконом - номера в Кирилловке, отдых в Кирилловке, 5 минут до моря, 7 минут от автовокзала, автовокзал, отдых в Кирилловке, Азовское море, отпуск, выходные в Кирилловке</description>
-        <keywords>В Мелитополе Эконом - номера в Кирилловке, отдых в Кирилловке, 5 минут до моря, 7 минут от автовокзала, автовокзал, отдых в Кирилловке, Азовское море, отпуск, выходные в Кирилловке</keywords>
+        <id>299</id>
+        <id_section>32</id_section>
+        <title>Горводоканал в Мелитополе</title>
+        <description>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</description>
+        <keywords>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</keywords>
       </node>
     </meta_tags>
     <main>
@@ -7128,7 +7128,7 @@
           <photo>0</photo>
         </list>
       </articles_anons>
-      <count>193</count>
+      <count>305</count>
     </list_articles>
     <list_articles>
       <articles_anons>
@@ -7140,7 +7140,7 @@
           <photo>0</photo>
         </list>
       </articles_anons>
-      <count>193</count>
+      <count>305</count>
     </list_articles>
     <gallery>
       <picture>
@@ -7157,7 +7157,7 @@
         <extension>.jpg</extension>
         <scroller>0</scroller>
       </picture>
-      <section>459</section>
+      <section>32</section>
       <width>252</width>
       <height>252</height>
       <long_path>http://spravka-melitopol.info/uploads/thumb/</long_path>
@@ -7182,9 +7182,9 @@
         <scroller>0</scroller>
       </picture>
       <picture>
-        <id>534</id>
+        <id>531</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=620&amp;item=4701</text>
+        <text>http://spravka-melitopol.info/?section=379&amp;item=4494</text>
         <extension>.jpg</extension>
         <scroller>0</scroller>
       </picture>
@@ -7196,9 +7196,23 @@
         <scroller>0</scroller>
       </picture>
       <picture>
-        <id>494</id>
+        <id>513</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=413&amp;item=1184</text>
+        <text>http://spravka-melitopol.info/?section=379&amp;item=3755</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>511</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=206&amp;item=1174</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>509</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=300&amp;item=3722</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
@@ -7210,18 +7224,11 @@
         <scroller>1</scroller>
       </picture>
       <picture>
-        <id>479</id>
+        <id>464</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=416&amp;item=4663</text>
+        <text>http://spravka-melitopol.info/?section=211&amp;item=4647</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
-      </picture>
-      <picture>
-        <id>444</id>
-        <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=131&amp;item=4609</text>
-        <extension>.jpg</extension>
-        <scroller>0</scroller>
       </picture>
       <picture>
         <id>443</id>
@@ -7245,9 +7252,9 @@
         <scroller>1</scroller>
       </picture>
       <picture>
-        <id>434</id>
+        <id>433</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=119&amp;item=135</text>
+        <text>http://spravka-melitopol.info/?section=435&amp;item=4600</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
@@ -7259,16 +7266,16 @@
         <scroller>0</scroller>
       </picture>
       <picture>
-        <id>376</id>
+        <id>367</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=312&amp;item=4512</text>
+        <text>http://spravka-melitopol.info/?section=608&amp;item=4478</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
       <picture>
-        <id>352</id>
+        <id>365</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=374&amp;item=4415</text>
+        <text>http://spravka-melitopol.info/?section=290&amp;item=4472</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
@@ -7280,13 +7287,27 @@
         <scroller>0</scroller>
       </picture>
       <picture>
-        <id>248</id>
+        <id>335</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=304&amp;item=3631</text>
+        <text>http://spravka-melitopol.info/?section=416&amp;item=4372</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>333</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=305&amp;item=4369</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>326</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=193&amp;item=4352</text>
         <extension>.jpg</extension>
         <scroller>0</scroller>
       </picture>
-      <section>459</section>
+      <section>32</section>
       <width>252</width>
       <height>252</height>
       <long_path>http://spravka-melitopol.info/uploads/thumb/</long_path>
@@ -7342,28 +7363,37 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
     </baners>
     <catalogue>
       <detail>
-        <id>3764</id>
-        <id_section>459</id_section>
-        <name> Эконом - номера в Кирилловке&gt;&gt;подробнее&gt;&gt;</name>
-        <text>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font color="#ff00ff" size="5"&gt;Предлагаем отдых в центре Кирилловки - 7 минут ходьбы от автовокзала, 5 минут хотьбы до моря.&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font color="#ff00ff" size="5"&gt;Небольшие, но чистые и уютные комнаты, приветливая хозяйка, чистые кухни.&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font color="#ff00ff" size="5"&gt;К нам во двор не ходят &amp;quot;чужие&amp;quot;, у нас не бросают окурки на землю, после 10 вечера мы приветствуем и требуем тишины, чтобы все могли отдохнуть.&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font color="#ff00ff" size="5"&gt;Все развлекательные заведения находятся рядом, но не помешают вашему отдыху.&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font color="#ff00ff" size="5"&gt;Магазин и небольшой рынок возле дома.&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;font color="#ff00ff" size="5"&gt;Приезжайте, будем рады !&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
-        <adres>пгт Кирилловка, ул. Петровского, 3</adres>
-        <tel>067-94-23-708, Ольга</tel>
+        <id>281</id>
+        <id_section>32</id_section>
+        <name>Горводоканал&gt;&gt;подробнее&gt;&gt;</name>
+        <text>&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;приемная 44-06-76&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;директор 44-06-76&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;главный инженер 44-06-76&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;главный&amp;nbsp; энергетик 5-17-82&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;главный бухгалтер 42-12-92&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;техотдел 42-13-63&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;плановый отдел 42-13-63&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;юридический отдел 42-04-48&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел кадров 42-04-48&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел по работе с предприятиями 6-77-49&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел расчетов с населением госсектора 6-98-54&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел расчетов с населением частного сектора 42-11-81&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;очистные сооружения 44-06-74&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел снабжения, профком 44-03-72&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;промбаза 5-32-70&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;</text>
+        <adres>ул. Луначарского, 100</adres>
+        <tel>42-12-23 диспетчер</tel>
         <tel_mob></tel_mob>
         <email></email>
         <url></url>
         <more></more>
-        <meta_title>Эконом - номера в Кирилловке в Мелитополе</meta_title>
-        <meta_description>В Мелитополе Эконом - номера в Кирилловке, отдых в Кирилловке, 5 минут до моря, 7 минут от автовокзала, автовокзал, отдых в Кирилловке, Азовское море, отпуск, выходные в Кирилловке</meta_description>
-        <meta_keywords>В Мелитополе Эконом - номера в Кирилловке, отдых в Кирилловке, 5 минут до моря, 7 минут от автовокзала, автовокзал, отдых в Кирилловке, Азовское море, отпуск, выходные в Кирилловке</meta_keywords>
+        <meta_title>Горводоканал в Мелитополе</meta_title>
+        <meta_description>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</meta_description>
+        <meta_keywords>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</meta_keywords>
       </detail>
-      <count>193</count>
+      <count>305</count>
     </catalogue>
     <baners>
       <item>
@@ -7426,34 +7456,50 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
       </item>
     </baners>
     <comments>
+      <get>
+        <section>32</section>
+        <item>281</item>
+      </get>
       <item>
-        <id>2</id>
-        <id_item>0</id_item>
-        <date_add>19.09.2012</date_add>
-        <id_user></id_user>
-        <name>ssee</name>
-        <photo_anons></photo_anons>
-        <text>sss</text>
-        <signature></signature>
-        <rating>0</rating>
-        <active>0</active>
-        <moder>0</moder>
-        <ip></ip>
+        <id>6</id>
+        <id_item>281</id_item>
+        <date_add>30.09.2012 16:33:05</date_add>
+        <id_user>6</id_user>
+        <text>ввв</text>
+        <active>1</active>
+        <first_name>oksamitnyj</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>https://ulogin.ru/img/photo.png</photo>
+        <identity>http://openid.yandex.ru/oksamitnij/</identity>
+        <profile>http://openid.yandex.ru/oksamitnij/</profile>
+        <network>yandex</network>
+        <uid>d26c9cb3d3e3f75decd04af06d00a87a</uid>
       </item>
       <item>
-        <id>3</id>
-        <id_item>0</id_item>
-        <date_add>17.09.2012</date_add>
-        <id_user></id_user>
-        <name>22</name>
-        <photo_anons></photo_anons>
-        <text>3333</text>
-        <signature></signature>
-        <rating>0</rating>
-        <active>0</active>
-        <moder>0</moder>
-        <ip></ip>
+        <id>5</id>
+        <id_item>281</id_item>
+        <date_add>30.09.2012 16:32:14</date_add>
+        <id_user>5</id_user>
+        <text>ddd</text>
+        <active>1</active>
+        <first_name>Роман</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>https://si0.twimg.com/profile_images/2530972311/i747zntqcrbodfms0djs_normal.jpeg</photo>
+        <identity>http://twitter.com/oksamitnyj</identity>
+        <profile>http://twitter.com/oksamitnyj</profile>
+        <network>twitter</network>
+        <uid>73072529</uid>
       </item>
+      <user>
+        <id>4</id>
+        <first_name>Роман</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>http://graph.facebook.com/100000758119984/picture?type=square</photo>
+        <identity>http://www.facebook.com/oksamitnyj</identity>
+        <profile>http://www.facebook.com/oksamitnyj</profile>
+        <network>facebook</network>
+        <uid>100000758119984</uid>
+      </user>
     </comments>
   </content>
   <domain>http://spravka-melitopol.info</domain>
