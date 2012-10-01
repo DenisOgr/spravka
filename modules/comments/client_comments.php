@@ -7,7 +7,7 @@ Class Client_comments {
 
 	function show($id) {
 		if (isset($_POST['save_message'])) {
-			$this->db->query('INSERT INTO comments SET id_item=?, date_add=NOW(), id_user=?, text=?', array($_GET['item'], $_POST['id_user'], $_POST['text']));
+			$this->db->query('INSERT INTO comments SET id_item=?, date_add=NOW(), id_user=?, text=?, active=1', array($_GET['item'], $_POST['id_user'], $_POST['text']));
 			$user = $this->db->get_row('SELECT * FROM users WHERE id=?', array($_POST['id_user']));		
 			$send = new sendmail ();
 			$send->addHtml ('

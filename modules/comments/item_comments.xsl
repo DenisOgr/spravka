@@ -5,31 +5,16 @@
 		<comments>
 			<form method="post">
 				<sys_messages />
-				<div class="newline">
-					Дата:
-					<input name="date_add" size="15" type="text">
-						<xsl:choose>
-							<xsl:when test="node/date_add">
-								<xsl:attribute name="value"><xsl:value-of select="node/date_add" /></xsl:attribute>
-							</xsl:when>
-							<xsl:otherwise>
-								<xsl:attribute name="value"><xsl:value-of select="today" /></xsl:attribute>
-							</xsl:otherwise>
-						</xsl:choose>
-					</input>
-				</div>
-
-				<div class="newline">
-					Имя
-					<span class="red">*</span>
-					:
-					<input name="name" value="{node/name}" size="15" type="text" />
-				</div>
-
+				<a href="{node/profile}">
+					<div class="newline">
+						<img src="{node/photo}" width="50" />
+					</div>
+					<div class="newline">
+						<xsl:value-of select="concat(node/first_name,' ',node/last_name)" />
+					</div>
+				</a>
 				<div class="newline">
 					Комментарий:
-					<span class="red">*</span>
-					:
 					<div class="tarea">
 						<textarea style="width:100%;" class="no_editor" name="text" rows="5">
 							<xsl:value-of select="node/text" />

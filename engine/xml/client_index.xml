@@ -7128,7 +7128,7 @@
           <photo>0</photo>
         </list>
       </articles_anons>
-      <count>305</count>
+      <count>306</count>
     </list_articles>
     <list_articles>
       <articles_anons>
@@ -7140,7 +7140,7 @@
           <photo>0</photo>
         </list>
       </articles_anons>
-      <count>305</count>
+      <count>306</count>
     </list_articles>
     <gallery>
       <picture>
@@ -7393,7 +7393,7 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
         <meta_description>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</meta_description>
         <meta_keywords>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</meta_keywords>
       </detail>
-      <count>305</count>
+      <count>306</count>
     </catalogue>
     <baners>
       <item>
@@ -7461,19 +7461,94 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
         <item>281</item>
       </get>
       <item>
-        <id>6</id>
+        <id>1</id>
         <id_item>281</id_item>
-        <date_add>30.09.2012 16:33:05</date_add>
-        <id_user>6</id_user>
-        <text>ввв</text>
+        <date_add>01.10.2012 12:10:47</date_add>
+        <id_user>1</id_user>
+        <text>dddd</text>
         <active>1</active>
-        <first_name>oksamitnyj</first_name>
+        <first_name>Роман</first_name>
         <last_name>Оксамитный</last_name>
-        <photo>https://ulogin.ru/img/photo.png</photo>
-        <identity>http://openid.yandex.ru/oksamitnij/</identity>
-        <profile>http://openid.yandex.ru/oksamitnij/</profile>
-        <network>yandex</network>
-        <uid>d26c9cb3d3e3f75decd04af06d00a87a</uid>
+        <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
+        <identity>http://vk.com/id19636805</identity>
+        <profile>http://vk.com/id19636805</profile>
+        <network>vkontakte</network>
+        <uid>19636805</uid>
+      </item>
+      <item>
+        <id>1</id>
+        <id_item>281</id_item>
+        <date_add>01.10.2012 12:10:00</date_add>
+        <id_user>1</id_user>
+        <text>dddd</text>
+        <active>1</active>
+        <first_name>Роман</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
+        <identity>http://vk.com/id19636805</identity>
+        <profile>http://vk.com/id19636805</profile>
+        <network>vkontakte</network>
+        <uid>19636805</uid>
+      </item>
+      <item>
+        <id>1</id>
+        <id_item>281</id_item>
+        <date_add>01.10.2012 12:05:14</date_add>
+        <id_user>1</id_user>
+        <text>dddd</text>
+        <active>1</active>
+        <first_name>Роман</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
+        <identity>http://vk.com/id19636805</identity>
+        <profile>http://vk.com/id19636805</profile>
+        <network>vkontakte</network>
+        <uid>19636805</uid>
+      </item>
+      <item>
+        <id>1</id>
+        <id_item>281</id_item>
+        <date_add>01.10.2012 12:02:09</date_add>
+        <id_user>1</id_user>
+        <text>22</text>
+        <active>1</active>
+        <first_name>Роман</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
+        <identity>http://vk.com/id19636805</identity>
+        <profile>http://vk.com/id19636805</profile>
+        <network>vkontakte</network>
+        <uid>19636805</uid>
+      </item>
+      <item>
+        <id>1</id>
+        <id_item>281</id_item>
+        <date_add>01.10.2012 11:49:39</date_add>
+        <id_user>1</id_user>
+        <text>dddd</text>
+        <active>1</active>
+        <first_name>Роман</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
+        <identity>http://vk.com/id19636805</identity>
+        <profile>http://vk.com/id19636805</profile>
+        <network>vkontakte</network>
+        <uid>19636805</uid>
+      </item>
+      <item>
+        <id>4</id>
+        <id_item>281</id_item>
+        <date_add>30.09.2012 17:06:29</date_add>
+        <id_user>4</id_user>
+        <text>ss</text>
+        <active>1</active>
+        <first_name>Роман</first_name>
+        <last_name>Оксамитный</last_name>
+        <photo>http://graph.facebook.com/100000758119984/picture?type=square</photo>
+        <identity>http://www.facebook.com/oksamitnyj</identity>
+        <profile>http://www.facebook.com/oksamitnyj</profile>
+        <network>facebook</network>
+        <uid>100000758119984</uid>
       </item>
       <item>
         <id>5</id>
@@ -7490,16 +7565,21 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
         <network>twitter</network>
         <uid>73072529</uid>
       </item>
-      <user>
-        <id>4</id>
+      <item>
+        <id>2</id>
+        <id_item>281</id_item>
+        <date_add>30.09.2012 16:25:57</date_add>
+        <id_user>2</id_user>
+        <text>sss</text>
+        <active>1</active>
         <first_name>Роман</first_name>
         <last_name>Оксамитный</last_name>
-        <photo>http://graph.facebook.com/100000758119984/picture?type=square</photo>
-        <identity>http://www.facebook.com/oksamitnyj</identity>
-        <profile>http://www.facebook.com/oksamitnyj</profile>
-        <network>facebook</network>
-        <uid>100000758119984</uid>
-      </user>
+        <photo>http://i501.odnoklassniki.ru/getImage?photoId=466150015250&amp;photoType=5</photo>
+        <identity>http://odnoklassniki.ru/284080903444</identity>
+        <profile>http://www.odnoklassniki.ru/profile/690000402</profile>
+        <network>odnoklassniki</network>
+        <uid>284080903444</uid>
+      </item>
     </comments>
   </content>
   <domain>http://spravka-melitopol.info</domain>
