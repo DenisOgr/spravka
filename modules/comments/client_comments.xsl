@@ -4,10 +4,11 @@
 
 	<xsl:template match="comments">
 		<script type="text/javascript" src="/modules/comments/comments.js" />
-		<script src="http://ulogin.ru/js/ulogin.js"/>
-		<div id="comments" data-item="{get/item}">
-		<input type="hidden" id="item" value="{get/item}"/>		
-		<h2>Комментарии</h2>		
+		<script src="http://ulogin.ru/js/ulogin.js" />
+		<div id="comments">
+			<input id="id_item" type="hidden" value="{get/item}" />
+			<input id="id_section" type="hidden" value="{get/section}" />
+			<h2>Комментарии</h2>
 			<ul>
 				<xsl:for-each select="item">
 					<li>
@@ -33,10 +34,9 @@
 						<b>
 							<xsl:value-of select="concat(user/first_name,' ', user/last_name)" />
 						</b>
-						<a href="#" id="logout">Выйти</a>
+						<a href="/?section={get/section}&amp;item={get/item}&amp;logout" id="logout">Выйти</a>
 						<form method="post">
 							<input type="hidden" name="id_user" value="{user/id}" />
-							<input name="id_item" type="hidden" value="{//requests/get/ITEM}" />
 							<img src="{user/photo}" class="photo" />
 							<textarea id="comment_text" name="text"></textarea>
 							<br />

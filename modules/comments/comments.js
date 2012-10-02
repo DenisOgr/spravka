@@ -1,10 +1,9 @@
 function social_login(token) {
-	$('#terms').load('/social_login.php?token=' + token + '&item=' + $('#comments').data('item'));
+	console.log($('#id_section').val());
+	$('#terms').load('/social_login.php?token=' + token + '&id_section=' + $('#id_section').val() + '&id_item=' + $('#id_item').val());
 }
 
-$(document).ready(
-
-function() {
+$(document).ready(function() {
 
 	/*
 	 * $('#addComment textarea').autoResize({ onResize : function() {
@@ -12,10 +11,10 @@ function() {
 	 * $(this).css({ opacity : 1 }); }, animateDuration : 300, extraSpace : 50 });
 	 */
 
-	$('#logout').live('click', function() {
+/*	$('#logout').live('click', function() {
 		$('#terms').load('/social_login.php?logout');
 		return false;
-	});
+	});*/
 
 	$("#addComment").submit(function() {
 		var options = {

@@ -7080,28 +7080,28 @@
         <add id="add">
           <name>Комментарии</name>
           <alias></alias>
-          <visible>1</visible>
+          <visible>0</visible>
           <static>1</static>
           <id_parent></id_parent>
           <sys>0</sys>
           <image>0</image>
         </add>
       </node>
-      <current_name>Аварийные службы</current_name>
-      <parent_name>Аварийно-справочные службы</parent_name>
-      <parent_id>27</parent_id>
-      <current_module>catalogue</current_module>
-      <current_id>32</current_id>
+      <current_name>Справка Мелитополь</current_name>
+      <parent_name></parent_name>
+      <parent_id></parent_id>
+      <current_module>articles</current_module>
+      <current_id>466</current_id>
     </node>
   </section>
   <content>
     <meta_tags>
       <node>
-        <id>299</id>
-        <id_section>32</id_section>
-        <title>Горводоканал в Мелитополе</title>
-        <description>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</description>
-        <keywords>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</keywords>
+        <id>17</id>
+        <id_section>466</id_section>
+        <title>Справка Мелитополя 433-422</title>
+        <description>У нас самая полная информация о фирмах, товарах и услугах города Мелитополь</description>
+        <keywords>Информация о предприятиях города Мелитополя, фирмы города Мелитополя,услуги в гроде Мелитополь, товары горо</keywords>
       </node>
     </meta_tags>
     <main>
@@ -7128,7 +7128,7 @@
           <photo>0</photo>
         </list>
       </articles_anons>
-      <count>306</count>
+      <count>5779</count>
     </list_articles>
     <list_articles>
       <articles_anons>
@@ -7140,7 +7140,7 @@
           <photo>0</photo>
         </list>
       </articles_anons>
-      <count>306</count>
+      <count>5779</count>
     </list_articles>
     <gallery>
       <picture>
@@ -7157,7 +7157,14 @@
         <extension>.jpg</extension>
         <scroller>0</scroller>
       </picture>
-      <section>32</section>
+      <picture>
+        <id>140</id>
+        <id_section>21</id_section>
+        <text>http://www.spravka-melitopol.info/?section=5</text>
+        <extension>.gif</extension>
+        <scroller>0</scroller>
+      </picture>
+      <section>466</section>
       <width>252</width>
       <height>252</height>
       <long_path>http://spravka-melitopol.info/uploads/thumb/</long_path>
@@ -7167,6 +7174,41 @@
     </gallery>
     <baners/>
     <gallery>
+      <picture>
+        <id>556</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=242&amp;item=4753</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>554</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=374&amp;item=4748</text>
+        <extension>.jpg</extension>
+        <scroller>0</scroller>
+      </picture>
+      <picture>
+        <id>553</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=178&amp;item=4540</text>
+        <extension>.jpg</extension>
+        <scroller>0</scroller>
+      </picture>
+      <picture>
+        <id>545</id>
+        <id_section>23</id_section>
+        <text>http://www.spravka-melitopol.info/?section=291&amp;item=4707</text>
+        <extension>.jpg</extension>
+        <scroller>0</scroller>
+      </picture>
+      <picture>
+        <id>542</id>
+        <id_section>23</id_section>
+        <text>http://www.spravka-melitopol.info/?section=621&amp;item=4706</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
       <picture>
         <id>541</id>
         <id_section>23</id_section>
@@ -7182,9 +7224,16 @@
         <scroller>0</scroller>
       </picture>
       <picture>
-        <id>531</id>
+        <id>534</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=379&amp;item=4494</text>
+        <text>http://spravka-melitopol.info/?section=620&amp;item=4701</text>
+        <extension>.jpg</extension>
+        <scroller>0</scroller>
+      </picture>
+      <picture>
+        <id>530</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=189&amp;item=1661</text>
         <extension>.jpg</extension>
         <scroller>0</scroller>
       </picture>
@@ -7196,23 +7245,37 @@
         <scroller>0</scroller>
       </picture>
       <picture>
-        <id>513</id>
+        <id>512</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=379&amp;item=3755</text>
+        <text>http://spravka-melitopol.info/?section=379&amp;item=4677</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
       <picture>
-        <id>511</id>
+        <id>510</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=206&amp;item=1174</text>
+        <text>http://spravka-melitopol.info/?section=379&amp;item=1060</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
       <picture>
-        <id>509</id>
+        <id>507</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=300&amp;item=3722</text>
+        <text>http://spravka-melitopol.info/?section=430&amp;item=2679</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>506</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=290&amp;item=4496</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>481</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=618&amp;item=4669</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
@@ -7224,9 +7287,16 @@
         <scroller>1</scroller>
       </picture>
       <picture>
-        <id>464</id>
+        <id>459</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=211&amp;item=4647</text>
+        <text>http://spravka-melitopol.info/?section=346&amp;item=4629</text>
+        <extension>.gif</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>452</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=318&amp;item=4627</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
@@ -7234,13 +7304,6 @@
         <id>443</id>
         <id_section>23</id_section>
         <text>http://spravka-melitopol.info/?section=416&amp;item=4612</text>
-        <extension>.jpg</extension>
-        <scroller>1</scroller>
-      </picture>
-      <picture>
-        <id>439</id>
-        <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=616&amp;item=4606</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
@@ -7259,6 +7322,13 @@
         <scroller>1</scroller>
       </picture>
       <picture>
+        <id>398</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=192&amp;item=4549</text>
+        <extension>.jpg</extension>
+        <scroller>0</scroller>
+      </picture>
+      <picture>
         <id>397</id>
         <id_section>23</id_section>
         <text>http://spravka-melitopol.info/?section=365&amp;item=4577</text>
@@ -7266,16 +7336,37 @@
         <scroller>0</scroller>
       </picture>
       <picture>
-        <id>367</id>
+        <id>396</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=608&amp;item=4478</text>
+        <text>http://spravka-melitopol.info/?section=414&amp;item=4578</text>
+        <extension>.jpg</extension>
+        <scroller>0</scroller>
+      </picture>
+      <picture>
+        <id>394</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=114&amp;item=4559</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
       <picture>
-        <id>365</id>
+        <id>362</id>
         <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=290&amp;item=4472</text>
+        <text>http://spravka-melitopol.info/?section=114&amp;item=4429</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>361</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=416&amp;item=4456</text>
+        <extension>.jpg</extension>
+        <scroller>1</scroller>
+      </picture>
+      <picture>
+        <id>360</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=211&amp;item=4451</text>
         <extension>.jpg</extension>
         <scroller>1</scroller>
       </picture>
@@ -7285,13 +7376,6 @@
         <text>http://nadeshda.com.ua/</text>
         <extension>.gif</extension>
         <scroller>0</scroller>
-      </picture>
-      <picture>
-        <id>335</id>
-        <id_section>23</id_section>
-        <text>http://spravka-melitopol.info/?section=416&amp;item=4372</text>
-        <extension>.jpg</extension>
-        <scroller>1</scroller>
       </picture>
       <picture>
         <id>333</id>
@@ -7307,7 +7391,14 @@
         <extension>.jpg</extension>
         <scroller>0</scroller>
       </picture>
-      <section>32</section>
+      <picture>
+        <id>317</id>
+        <id_section>23</id_section>
+        <text>http://spravka-melitopol.info/?section=303&amp;item=3917</text>
+        <extension>.jpg</extension>
+        <scroller>0</scroller>
+      </picture>
+      <section>466</section>
       <width>252</width>
       <height>252</height>
       <long_path>http://spravka-melitopol.info/uploads/thumb/</long_path>
@@ -7361,40 +7452,53 @@ alt="Рейтинг@Mail.ru"/&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;script language=
 if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</url>
       </item>
     </baners>
-    <catalogue>
-      <detail>
-        <id>281</id>
-        <id_section>32</id_section>
-        <name>Горводоканал&gt;&gt;подробнее&gt;&gt;</name>
-        <text>&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;приемная 44-06-76&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;директор 44-06-76&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;главный инженер 44-06-76&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;главный&amp;nbsp; энергетик 5-17-82&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;главный бухгалтер 42-12-92&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;техотдел 42-13-63&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;плановый отдел 42-13-63&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;юридический отдел 42-04-48&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел кадров 42-04-48&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел по работе с предприятиями 6-77-49&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел расчетов с населением госсектора 6-98-54&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел расчетов с населением частного сектора 42-11-81&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;очистные сооружения 44-06-74&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;отдел снабжения, профком 44-03-72&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;промбаза 5-32-70&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;font size="4" color="#ff0000"&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;</text>
-        <adres>ул. Луначарского, 100</adres>
-        <tel>42-12-23 диспетчер</tel>
-        <tel_mob></tel_mob>
-        <email></email>
-        <url></url>
-        <more></more>
-        <meta_title>Горводоканал в Мелитополе</meta_title>
-        <meta_description>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</meta_description>
-        <meta_keywords>В Мелитополе Горводоканал, Горводоканал в Мелитополе, телефоны горводоканала, номера телефонов горводоканала, горводоканал в Мелитополе, аварийные службы в Мелитополе, справка Мелитополя 433-422, Горсправка 15-60</meta_keywords>
-      </detail>
-      <count>306</count>
-    </catalogue>
+    <list_articles>
+      <articles>
+        <item>
+          <id>43</id>
+          <id_section>466</id_section>
+          <title></title>
+          <text>&lt;p&gt;&lt;img hspace="10" alt="" vspace="10" align="left" width="216" height="287" src="/userfiles/image/DSC.jpg" /&gt;Без информации сложно представить жизнь в современном мире. Без получения информации сейчас не обходится ни одно предприятие или предприниматель. Более того, даже обычные граждане по несколько раз на день обращаются в различные справочные источники за получением тех или иных данных: узнать интересующий номер телефона или адрес, просмотреть объявления о продаже или предоставлении услуг и так далее.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Справочная служба Мелитополя 433-422 работает на городском рынке информуслуг более 10 лет и зарекомендовала себя как стабильный и надежный деловой партнер в области информационного бизнеса. Мы максимально стараемся облегчить жителям города задачу поиска нужных сведений. Для этого достаточно набрать телефонный номер 433-422 или зайти на сайт нашего информагентства. Деятельность &amp;laquo;Справки-Мелитополь&amp;raquo; основана на сборе, обработке и предоставлении информации всем, кто в ней нуждается. Прежде всего, это самые полные данные о предприятиях, компаниях, организациях, фирмах и о товарах и услугах, которые они производят или предоставляют.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Благодаря постоянному взаимодействию с городскими организациями, предприятиями, фирмами, частными предпринимателями, информация ежедневно дополняется и обновляется.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Информация из базы данных &amp;laquo;Справки-Мелитополь&amp;raquo; выдается бесплатно по многоканальному телефону &lt;strong&gt;+38 (0619) 433-422&lt;/strong&gt;. Все данные дублируются в Интернете на сайте www.spravka-melitopol.info , где их можно получить в любое время суток в любой точке земного шара.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+У нас всегда можно в телефонном либо интернет-режиме:&lt;br /&gt;&#13;
+&amp;bull; Получить информацию о товарах, услугах, предприятиях Мелитополя и региона;&lt;br /&gt;&#13;
+&amp;bull; Узнать расписание поездов следующих через станцию Мелитополь;&lt;br /&gt;&#13;
+&amp;bull; Узнать погоду в нашем регионе на ближайшие 2 недели;&lt;br /&gt;&#13;
+&amp;bull; Приобрести потенциальных клиентов или бизнес-партнеров;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Нашей информацией уже сейчас пользуются справочные службы других городов, как на платной, так и бесплатной основе.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Если Вы желаете разместить информацию о своем предприятии, предлагаемых услугах или производимой продукции, можете позвонить по телефону:&lt;br /&gt;&#13;
+&lt;strong&gt;(0619) 432-433&lt;/strong&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Вы также имеете возможность разместить свой рекламный блок на любой странице нашего сайта. Что касается информации о купле-продаже, то самые свежие данные всегда можно узнать на нашем сайте &lt;strong&gt;www.spravka-melitopol.info&lt;/strong&gt; в разделе &amp;laquo;Доска объявлений&amp;raquo;( Просим извинения, раздел &amp;quot;Доска объявлений&amp;quot; начнет работать в октябре.)&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Работа справочной службы направлена на удовлетворение информационных нужд как бизнес-аудитории Мелитопольщины, так и обычных граждан. Мы обеспечиваем рекламодателей надежной справочной поддержкой, информируя абонентов о контактах, акциях, скидках. Таким образом, рекламодатели получают потенциального покупателя, обеспечивают самый простой доступ к своим товарам, услугам, контактам.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Очевидно, что зная такой легкозапоминающийся номер справочной службы как -&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;strong&gt;&lt;em&gt;&lt;u&gt;8 (0619)&amp;nbsp;433-422&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;, с нашей помощью Ваш клиент быстрее свяжется с Вами, используя самое доступное средство - телефон!&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Уважаемые господа, став клиентом &amp;laquo;Справки-Мелитополь&amp;raquo;, Вы приобретаете надежного партнера в бесконечном информационном пространстве!&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;strong&gt;Мы работаем для того, чтобы Вас нашел клиент.&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;strong&gt;Мы работаем для того, чтобы Вы могли выгодно и быстро&amp;nbsp;купить.&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;strong&gt;Мы работаем для того, чтобы всем было удобно&lt;/strong&gt; &lt;strong&gt;жить...&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+          <anons></anons>
+          <photo>0</photo>
+          <meta_title></meta_title>
+          <meta_description></meta_description>
+          <meta_keywords></meta_keywords>
+        </item>
+      </articles>
+      <count>0</count>
+    </list_articles>
     <baners>
       <item>
         <id>38</id>
@@ -7457,15 +7561,16 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
     </baners>
     <comments>
       <get>
-        <section>32</section>
-        <item>281</item>
+        <section>466</section>
+        <item>43</item>
       </get>
       <item>
         <id>1</id>
-        <id_item>281</id_item>
-        <date_add>01.10.2012 12:10:47</date_add>
+        <id_section>466</id_section>
+        <id_item>43</id_item>
+        <date_add>02.10.2012 11:04:23</date_add>
         <id_user>1</id_user>
-        <text>dddd</text>
+        <text>ууууу</text>
         <active>1</active>
         <first_name>Роман</first_name>
         <last_name>Оксамитный</last_name>
@@ -7477,10 +7582,11 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
       </item>
       <item>
         <id>1</id>
-        <id_item>281</id_item>
-        <date_add>01.10.2012 12:10:00</date_add>
+        <id_section>466</id_section>
+        <id_item>43</id_item>
+        <date_add>02.10.2012 11:03:34</date_add>
         <id_user>1</id_user>
-        <text>dddd</text>
+        <text>уу</text>
         <active>1</active>
         <first_name>Роман</first_name>
         <last_name>Оксамитный</last_name>
@@ -7490,13 +7596,8 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
         <network>vkontakte</network>
         <uid>19636805</uid>
       </item>
-      <item>
+      <user>
         <id>1</id>
-        <id_item>281</id_item>
-        <date_add>01.10.2012 12:05:14</date_add>
-        <id_user>1</id_user>
-        <text>dddd</text>
-        <active>1</active>
         <first_name>Роман</first_name>
         <last_name>Оксамитный</last_name>
         <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
@@ -7504,82 +7605,7 @@ if(11&lt;js)d.write('--'+'&gt;')//--&gt;&lt;/script&gt;&lt;!--/COUNTER--&gt;</ur
         <profile>http://vk.com/id19636805</profile>
         <network>vkontakte</network>
         <uid>19636805</uid>
-      </item>
-      <item>
-        <id>1</id>
-        <id_item>281</id_item>
-        <date_add>01.10.2012 12:02:09</date_add>
-        <id_user>1</id_user>
-        <text>22</text>
-        <active>1</active>
-        <first_name>Роман</first_name>
-        <last_name>Оксамитный</last_name>
-        <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
-        <identity>http://vk.com/id19636805</identity>
-        <profile>http://vk.com/id19636805</profile>
-        <network>vkontakte</network>
-        <uid>19636805</uid>
-      </item>
-      <item>
-        <id>1</id>
-        <id_item>281</id_item>
-        <date_add>01.10.2012 11:49:39</date_add>
-        <id_user>1</id_user>
-        <text>dddd</text>
-        <active>1</active>
-        <first_name>Роман</first_name>
-        <last_name>Оксамитный</last_name>
-        <photo>http://cs411424.userapi.com/u19636805/e_a2f0ed5a.jpg</photo>
-        <identity>http://vk.com/id19636805</identity>
-        <profile>http://vk.com/id19636805</profile>
-        <network>vkontakte</network>
-        <uid>19636805</uid>
-      </item>
-      <item>
-        <id>4</id>
-        <id_item>281</id_item>
-        <date_add>30.09.2012 17:06:29</date_add>
-        <id_user>4</id_user>
-        <text>ss</text>
-        <active>1</active>
-        <first_name>Роман</first_name>
-        <last_name>Оксамитный</last_name>
-        <photo>http://graph.facebook.com/100000758119984/picture?type=square</photo>
-        <identity>http://www.facebook.com/oksamitnyj</identity>
-        <profile>http://www.facebook.com/oksamitnyj</profile>
-        <network>facebook</network>
-        <uid>100000758119984</uid>
-      </item>
-      <item>
-        <id>5</id>
-        <id_item>281</id_item>
-        <date_add>30.09.2012 16:32:14</date_add>
-        <id_user>5</id_user>
-        <text>ddd</text>
-        <active>1</active>
-        <first_name>Роман</first_name>
-        <last_name>Оксамитный</last_name>
-        <photo>https://si0.twimg.com/profile_images/2530972311/i747zntqcrbodfms0djs_normal.jpeg</photo>
-        <identity>http://twitter.com/oksamitnyj</identity>
-        <profile>http://twitter.com/oksamitnyj</profile>
-        <network>twitter</network>
-        <uid>73072529</uid>
-      </item>
-      <item>
-        <id>2</id>
-        <id_item>281</id_item>
-        <date_add>30.09.2012 16:25:57</date_add>
-        <id_user>2</id_user>
-        <text>sss</text>
-        <active>1</active>
-        <first_name>Роман</first_name>
-        <last_name>Оксамитный</last_name>
-        <photo>http://i501.odnoklassniki.ru/getImage?photoId=466150015250&amp;photoType=5</photo>
-        <identity>http://odnoklassniki.ru/284080903444</identity>
-        <profile>http://www.odnoklassniki.ru/profile/690000402</profile>
-        <network>odnoklassniki</network>
-        <uid>284080903444</uid>
-      </item>
+      </user>
     </comments>
   </content>
   <domain>http://spravka-melitopol.info</domain>
