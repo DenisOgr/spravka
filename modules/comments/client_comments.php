@@ -23,19 +23,21 @@ Class Client_comments {
 	function save() {
 		$this->db->query('INSERT INTO comments SET id_section=?, id_item=?, date_add=NOW(), id_user=?, text=?, active=1', array($_GET['section'],$_GET['item'], $_POST['id_user'], $_POST['text']));
 		$user = $this->db->get_row('SELECT * FROM users WHERE id=?', array($_POST['id_user']));
-		$send = new sendmail ();
+		$item = (isset($_GET['item'])) ? '&item='.$_GET['item'] : '';
+		$send = new sendmail ();		
 		$send->addHtml ('
+				Добавлен новый комментарий к <a href="http://spravka-melitopol.info/?section='.$_GET['section'].$item.'">странице</a>
 				<table>
 				<tr>
 				<th>Имя</th>
-				<td>'.$user['first_name'].' '.$user['first_name'].'</td>
+				<td><a href="'.$user['profile'].'">'.$user['first_name'].' '.$user['last_name'].'</a></td>
 				</tr>
 				<tr>
-				<th>Отзыв</th>
+				<th>Комментарий</th>
 				<td>'.$_POST['text'].'</td>
 				</tr>
 				</table>');
-		$send->send ( EMAIL_ADMIN, 'Новый отзыв' );
+		$send->send ( EMAIL_ADMIN, 'Новый комментарий' );
 	}
 
 	function get_list($id) {
